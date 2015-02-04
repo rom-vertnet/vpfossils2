@@ -1,0 +1,121 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 1156
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Canada ; Times: 15
+	Country: France ; Times: 1
+	Country: Poland ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-11 ; Times: 1
+	Date: 2015-01-12 ; Times: 6
+	Date: 2015-01-13 ; Times: 2
+	Date: 2015-01-14 ; Times: 2
+	Date: 2015-01-16 ; Times: 2
+	Date: 2015-01-18 ; Times: 4
+	Date: 2015-01-19 ; Times: 2
+	Date: 2015-01-20 ; Times: 1
+	Date: 2015-01-21 ; Times: 4
+	Date: 2015-01-26 ; Times: 5
+	Date: 2015-01-27 ; Times: 2
+	Date: 2015-01-28 ; Times: 15
+	Date: 2015-01-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus Adamanteus stateprovince:"Florida"" ; Times: 1
+	Query: "Aepyornis maximus" ; Times: 1
+	Query: "edmontosaurus" ; Times: 2
+	Query: "Parksosaurus institutioncode:ROM" ; Times: 1
+	Query: "type:specimen genus:Geochelone institutioncode:ROM fossil:1" ; Times: 1
+	Query: "rom gryposaurus" ; Times: 3
+	Query: "rom 44770" ; Times: 3
+	Query: "wilson creek caldwell county" ; Times: 1
+	Query: "chasmosaurus" ; Times: 1
+	Query: "Alligator mississippiensis" ; Times: 1
+	Query: "diplodocus" ; Times: 1
+	Query: "Brazilosaurus" ; Times: 1
+	Query: "fossil" ; Times: 1
+	Query: "Grus canadensis rom" ; Times: 1
+	Query: "hadrosauridae hill" ; Times: 1
+	Query: "Archaeopteryx" ; Times: 1
+	Query: "gopherus type:specimen fossil:1" ; Times: 2
+	Query: ""stylemys nebrascensis" type:specimen fossil:1" ; Times: 1
+	Query: "specificepithet:altispinus genus:Hypacrosaurus" ; Times: 2
+	Query: "alligator mississippiensis" ; Times: 6
+	Query: "parasaurolophus" ; Times: 1
+	Query: "Royal Ontario Museum Saskatchewan" ; Times: 1
+	Query: "Dromaeosauridae institutioncode:ROM" ; Times: 1
+	Query: "Stereosternum" ; Times: 1
+	Query: "type:specimen genus:Caranx institutioncode:ROM" ; Times: 1
+	Query: "genus:Iguana institutioncode:ROM" ; Times: 1
+	Query: "glyptodon" ; Times: 1
+	Query: "Captorhinus" ; Times: 1
+	Query: "stylemys" ; Times: 1
+	Query: "Parasaurolophus" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "bird fossil" ; Times: 1
+	Query: "Athene cunicularia country:"peru"" ; Times: 1
+	Query: "Rom grus port" ; Times: 1
+	Query: "royal ontario museum saskatchewan AND (USA) fossil:1" ; Times: 1
+	Query: "rom maiasaura" ; Times: 2
+	Query: "Palaeobiology institutioncode:ROM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 445 download events in this period)
+Total number of records downloaded: 83 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 83
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-16 ; Times: 2
+	Date: 2015-01-18 ; Times: 2
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-22 ; Times: 1
+	Date: 2015-01-24 ; Times: 1
+	Date: 2015-01-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "gopherus type:specimen fossil:1" ; Times: 1
+	Query: "mammals stateprovince:"coahuila" country:"mexico"" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: ""stylemys nebrascensis" type:specimen fossil:1" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 8
+Total number of records downloaded: 83
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 51
+Total number of records retrieved from searches: 1156
+Number of download events that retrieved data from the resource: 8
+Total number of records downloaded: 83
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
