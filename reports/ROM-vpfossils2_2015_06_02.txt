@@ -1,0 +1,96 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 46
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-09 ; Times: 2
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-15 ; Times: 6
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-21 ; Times: 2
+	Date: 2015-05-22 ; Times: 3
+	Date: 2015-05-26 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:rom glyptodon" ; Times: 4
+	Query: "(caudal)" ; Times: 1
+	Query: "stateprovince:"New York" fossil:1" ; Times: 1
+	Query: "49339" ; Times: 3
+	Query: "Pachycephalosaurus" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "52375" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:Grus institutioncode:ROM" ; Times: 1
+	Query: "meiolania" ; Times: 1
+	Query: "AG 259" ; Times: 1
+	Query: "58062" ; Times: 1
+	Query: "Dracorex" ; Times: 2
+	Query: "type:specimen specificepithet:americana genus:Grus institutioncode:ROM year >= 1900 year <= 2000" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:grus institutioncode:ROM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 976 download events in this period)
+Total number of records downloaded: 151 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 142
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-21 ; Times: 3
+	Date: 2015-05-22 ; Times: 1
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "sceloporus magister" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "tyto alba" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Charina" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "Lithobates catesbeianus type:specimen" ; Times: 1
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 56
+Total number of records retrieved from searches: 1428
+Number of download events that retrieved data from the resource: 35
+Total number of records downloaded: 7554
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 107
+Total number of records retrieved from searches: 2584
+Number of download events that retrieved data from the resource: 35
+Total number of records downloaded: 7554
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
