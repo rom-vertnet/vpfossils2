@@ -1,0 +1,121 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 394
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Russia ; Times: 6
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 35
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 4
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-05 ; Times: 6
+	Date: 2015-06-08 ; Times: 5
+	Date: 2015-06-11 ; Times: 5
+	Date: 2015-06-12 ; Times: 2
+	Date: 2015-06-14 ; Times: 2
+	Date: 2015-06-15 ; Times: 2
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-18 ; Times: 5
+	Date: 2015-06-19 ; Times: 6
+	Date: 2015-06-21 ; Times: 3
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 1
+	Date: 2015-06-29 ; Times: 1
+	Date: 2015-06-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "catalognumber:35012" ; Times: 3
+	Query: "64392 mammalia" ; Times: 1
+	Query: "iguana florida" ; Times: 2
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "type:specimen (holocene)" ; Times: 2
+	Query: "ROM 3042" ; Times: 1
+	Query: "Tyrannosaurus rex" ; Times: 4
+	Query: "reptilia ouray" ; Times: 1
+	Query: "bufo fossil" ; Times: 2
+	Query: "FossilSpecimen institutioncode:ROM" ; Times: 1
+	Query: "bufo fossil:1" ; Times: 4
+	Query: "rhamphorhynchus" ; Times: 1
+	Query: "FossilSpecimen" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "mammals peru" ; Times: 2
+	Query: "64392" ; Times: 1
+	Query: "mammalia 43141" ; Times: 1
+	Query: "Dilophosaurus" ; Times: 1
+	Query: "genus:ictalurus mappable:1 tissue:1" ; Times: 1
+	Query: "catalognumber:34833 institutioncode:ROM" ; Times: 1
+	Query: "blackfeet" ; Times: 1
+	Query: "tadorna tadorna" ; Times: 1
+	Query: "FossilSpecimen institutioncode:ROM fossil:1" ; Times: 1
+	Query: "Deinonychus" ; Times: 1
+	Query: "44801" ; Times: 1
+	Query: "catalognumber:35017" ; Times: 1
+	Query: "Carcharodon" ; Times: 1
+	Query: "dilophosaurus" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "institutioncode:ROM fossil:1" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "type:specimen class:aves catalognumber:14366" ; Times: 1
+	Query: "pristis pristis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1524 download events in this period)
+Total number of records downloaded: 704 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 704
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 1
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "turkey" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "cyprinidae institutioncode:ROM" ; Times: 1
+	Query: "dilophosaurus" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "type:specimen (holocene)" ; Times: 1
+	Query: ""chelonia mydas"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 105
+Total number of records retrieved from searches: 1822
+Number of download events that retrieved data from the resource: 44
+Total number of records downloaded: 8258
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 156
+Total number of records retrieved from searches: 2978
+Number of download events that retrieved data from the resource: 44
+Total number of records downloaded: 8258
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
