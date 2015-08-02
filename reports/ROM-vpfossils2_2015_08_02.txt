@@ -1,0 +1,161 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 502
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Poland ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: United States ; Times: 48
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-02 ; Times: 8
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-07 ; Times: 5
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-16 ; Times: 3
+	Date: 2015-07-20 ; Times: 3
+	Date: 2015-07-22 ; Times: 18
+	Date: 2015-07-23 ; Times: 3
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-25 ; Times: 8
+	Date: 2015-07-26 ; Times: 2
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Atractosteus florida" ; Times: 1
+	Query: "pristis pectinata" ; Times: 3
+	Query: "Reptilia "South Dakota" year >= 2000 year <= 2015" ; Times: 1
+	Query: "triceratops" ; Times: 1
+	Query: "Gopherus polyphemus" ; Times: 1
+	Query: "51472" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 8
+	Query: "Dinornithiformes" ; Times: 2
+	Query: "Reptilia South Dakota year >= 2000 year <= 2015" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS)" ; Times: 1
+	Query: "apalone ferox" ; Times: 1
+	Query: "stateprovince:"alaska" class:reptilia" ; Times: 10
+	Query: "eryops" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "amphiuma" ; Times: 1
+	Query: "42291" ; Times: 1
+	Query: "gopherus polyphemus" ; Times: 3
+	Query: "Apalone ferox mappable:1" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "tyrannosaurus rex" ; Times: 1
+	Query: "Deirochelys (miaria OR chrysea OR reticularia)" ; Times: 1
+	Query: "fossil:1" ; Times: 2
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "Brazil Parana Reptilia" ; Times: 2
+	Query: "33625" ; Times: 1
+	Query: "Egretta thula type:specimen" ; Times: 1
+	Query: "catalognumber:70778 institutioncode:rom" ; Times: 2
+	Query: "Egretta thula type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "rom 30259" ; Times: 4
+	Query: "type:specimen fossil:1" ; Times: 1
+	Query: "stateprovince:"Alaska" class:reptilia fossil:1" ; Times: 1
+	Query: "(suwanniensis OR apalachicolae OR teminckii OR Macroclemys OR Macrochelys)" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM)" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "rom 30246" ; Times: 4
+	Query: "Apalone ferox" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1084 download events in this period)
+Total number of records downloaded: 1922 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1453
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-15 ; Times: 4
+	Date: 2015-07-20 ; Times: 3
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 19
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-28 ; Times: 2
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "Terrapene (carolina OR bauri OR major OR triunguis)" ; Times: 1
+	Query: "triceratops" ; Times: 1
+	Query: "Graptemys barbouri" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "county:"Emery" stateprovince:"Utah"" ; Times: 1
+	Query: "Kinosternon subrubrum" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "Reptile stateprovince:"Kansas"" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "mammalia mexico" ; Times: 1
+	Query: "Apalone ferox mappable:1" ; Times: 1
+	Query: "Pseudemys concinna year >= 1950 year <= 2013" ; Times: 1
+	Query: "aepyornis" ; Times: 2
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "country:"Mexico" class:Reptilia" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "tyrannosaurus rex" ; Times: 1
+	Query: "Deirochelys (miaria OR chrysea OR reticularia)" ; Times: 1
+	Query: "Reptilia Brazil Parana" ; Times: 1
+	Query: "adamanteus" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Kinosternon baurii" ; Times: 1
+	Query: "anaxyrus type:specimen" ; Times: 1
+	Query: "(suwanniensis OR apalachicolae OR teminckii OR Macroclemys OR Macrochelys)" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "stateprovince:"alaska" class:reptilia" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "county:"Duchesne" stateprovince:"Utah"" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "Apalone ferox" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 174
+Total number of records retrieved from searches: 2324
+Number of download events that retrieved data from the resource: 82
+Total number of records downloaded: 10180
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 225
+Total number of records retrieved from searches: 3480
+Number of download events that retrieved data from the resource: 82
+Total number of records downloaded: 10180
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
