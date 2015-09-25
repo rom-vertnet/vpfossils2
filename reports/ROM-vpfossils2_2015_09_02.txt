@@ -1,0 +1,119 @@
+Report for Institution Code ROM, Resource Vertebrate Paleontology
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 319
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Benin ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: United States ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-05 ; Times: 21
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-09 ; Times: 1
+	Date: 2015-08-10 ; Times: 1
+	Date: 2015-08-11 ; Times: 2
+	Date: 2015-08-12 ; Times: 3
+	Date: 2015-08-17 ; Times: 2
+	Date: 2015-08-19 ; Times: 1
+	Date: 2015-08-22 ; Times: 3
+	Date: 2015-08-24 ; Times: 2
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "58227" ; Times: 1
+	Query: "Phorusrhacidae" ; Times: 1
+	Query: "alligator (skel OR skeleton)" ; Times: 1
+	Query: "Psittacosaurus" ; Times: 2
+	Query: "Alligator mississippiensis" ; Times: 1
+	Query: "tissue:1 fossil:1" ; Times: 1
+	Query: "ROM 68582" ; Times: 1
+	Query: "46549" ; Times: 1
+	Query: "Fossils" ; Times: 1
+	Query: "country:"Mexico" class:Osteichthyes" ; Times: 1
+	Query: "60313" ; Times: 1
+	Query: "Tyrannosaurus" ; Times: 10
+	Query: "Dilophosaurus (UCMP)" ; Times: 8
+	Query: "isurus oxyrinchus" ; Times: 2
+	Query: "catalognumber:43286" ; Times: 1
+	Query: "sebecus" ; Times: 1
+	Query: "Caudata stateprovince:"Alberta" year <= 2015" ; Times: 1
+	Query: "58508" ; Times: 1
+	Query: "Teratornis" ; Times: 1
+	Query: "Ceratosaurus" ; Times: 3
+	Query: "catalognumber:52495" ; Times: 1
+	Query: "type:specimen genus:alligator" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1138 download events in this period)
+Total number of records downloaded: 7375 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7285
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 9
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-04 ; Times: 2
+	Date: 2015-08-09 ; Times: 1
+	Date: 2015-08-10 ; Times: 1
+	Date: 2015-08-17 ; Times: 1
+	Date: 2015-08-25 ; Times: 2
+	Date: 2015-08-26 ; Times: 7
+	Date: 2015-08-29 ; Times: 1
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "year >= 1755 year <= 1819" ; Times: 3
+	Query: "gymnogyps type:specimen" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "Struthio camelus" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "nevada class:reptilia" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "year >= 1755 year <= 1821" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "class:aves (feather)" ; Times: 1
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "Cracidae" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 42
+Total number of records retrieved from searches: 319
+Number of download events that retrieved data from the resource: 20
+Total number of records downloaded: 7375
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 42
+Total number of records retrieved from searches: 319
+Number of download events that retrieved data from the resource: 20
+Total number of records downloaded: 7375
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
