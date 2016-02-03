@@ -1,0 +1,107 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 462
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 14
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 15
+	Country: Chile ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-14 ; Times: 10
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 10
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 4
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-20 ; Times: 1
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen catalognumber:43645 institutioncode:ROM" ; Times: 1
+	Query: "32700" ; Times: 1
+	Query: "61430" ; Times: 1
+	Query: "alligator mississippiensis (skel OR skeleton)" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "apalone ferox" ; Times: 1
+	Query: "Leptoceratops" ; Times: 2
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "diplodocus" ; Times: 7
+	Query: "rom 15529" ; Times: 2
+	Query: "institutioncode:rom alligator" ; Times: 4
+	Query: "(amphibia) fossil:1" ; Times: 9
+	Query: "brachychampsa" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris institutioncode:ROM" ; Times: 1
+	Query: "monster" ; Times: 6
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "dyrosaurus" ; Times: 1
+	Query: "Tyrannosaurus" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "class:amphibia fossil:1" ; Times: 1
+	Query: "gastrolith" ; Times: 2
+	Query: "43288" ; Times: 1
+	Query: "amphibia fossil" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 823 download events in this period)
+Total number of records downloaded: 7245
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "amphiuma means" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "alligator mississippiensis (skel OR skeleton)" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Chelydra" ; Times: 1
+	Query: "(amphibia) fossil:1" ; Times: 1
+	Query: "apalone ferox" ; Times: 2
+
+
+End of report.
