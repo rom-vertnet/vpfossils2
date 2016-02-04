@@ -1,0 +1,89 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 158
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 15
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-31 ; Times: 3
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-06 ; Times: 5
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-09 ; Times: 2
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "herpetofauna" ; Times: 2
+	Query: "tyrannosaurus" ; Times: 1
+	Query: "catalognumber:19405 institutioncode:ROM" ; Times: 1
+	Query: "fossil:1" ; Times: 1
+	Query: "Camarasaurus" ; Times: 2
+	Query: "country:&#34;mauritius&#34; institutioncode:ROM" ; Times: 5
+	Query: "Tadorna ferruginea" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 2
+	Query: "ROM 18178" ; Times: 1
+	Query: "25690 institutioncode:ROM" ; Times: 1
+	Query: "avain" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "Chisternon" ; Times: 2
+	Query: "Barosaurus" ; Times: 1
+	Query: "order:Urodela institutioncode:ROM" ; Times: 1
+	Query: "Diplodocus" ; Times: 1
+	Query: "ROM 18141" ; Times: 1
+	Query: "rom 30249" ; Times: 3
+	Query: "catalognumber:19404 institutioncode:ROM" ; Times: 1
+	Query: "Tetrax tetrax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 507 download events in this period)
+Total number of records downloaded: 3513
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-03 ; Times: 4
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Temnurus temnurus" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "order:Caudata country:&#34;USA&#34;" ; Times: 1
+	Query: "order:Anura institutioncode:ROM" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+
+
+End of report.
