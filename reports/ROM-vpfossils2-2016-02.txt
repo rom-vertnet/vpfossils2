@@ -1,0 +1,75 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 67
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-13 ; Times: 6
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "dods" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; recordedby:WALKER" ; Times: 1
+	Query: "kinosternon steindachneri" ; Times: 2
+	Query: "ROM 18117" ; Times: 1
+	Query: "ROM 13648" ; Times: 1
+	Query: "ROM 42418" ; Times: 1
+	Query: "class:reptilia county:&#34;grand&#34; stateprovince:&#34;utah&#34; AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT sceloporus NOT undulatus NOT cophosaurus)" ; Times: 1
+	Query: "Lambeosaurus" ; Times: 1
+	Query: "72101" ; Times: 1
+	Query: "Saurolophus" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "ROM 18158" ; Times: 3
+	Query: "ROM 18141" ; Times: 1
+	Query: "ROM 18188" ; Times: 1
+	Query: "Rom 18242" ; Times: 1
+	Query: "ROM 18144" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 512 download events in this period)
+Total number of records downloaded: 282
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Strigidae" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+
+
+End of report.
