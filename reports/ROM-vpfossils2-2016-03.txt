@@ -1,0 +1,62 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 83
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 3
+	Date: 2016-03-11 ; Times: 1
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "triceratops" ; Times: 1
+	Query: "crassiscutata" ; Times: 1
+	Query: "gopherus polyphemus" ; Times: 1
+	Query: "tyrannosaurus" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "tarbosaurus" ; Times: 1
+	Query: "Zapteryx exasperata" ; Times: 1
+	Query: "ROM 18183" ; Times: 2
+	Query: "Canadian Museum of Nature" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 230 download events in this period)
+Total number of records downloaded: 515
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-06 ; Times: 3
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Amphiuma means mappable:1" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "crassiscutata" ; Times: 1
+	Query: "Hesperotestudo" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+
+
+End of report.
