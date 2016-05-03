@@ -1,0 +1,196 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 174
+Number of records retrieved in searches: 2155
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 122
+	Country: Brazil ; Times: 1
+	Country: Czech Republic ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 4
+	Country: United States ; Times: 33
+	Country: United Kingdom ; Times: 5
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 99
+	Date: 2016-04-17 ; Times: 4
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-11 ; Times: 4
+	Date: 2016-04-26 ; Times: 15
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-05 ; Times: 5
+	Date: 2016-04-04 ; Times: 4
+	Date: 2016-04-14 ; Times: 24
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-22 ; Times: 4
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Euoplocephalus" ; Times: 1
+	Query: "MITSUKURINIDAE" ; Times: 1
+	Query: "genus:Globidens" ; Times: 1
+	Query: "catalognumber:64563" ; Times: 1
+	Query: "Gulo Gulo Ontario" ; Times: 10
+	Query: "Aquila chrysaetos Ontario" ; Times: 10
+	Query: "Nodocephalosaurus" ; Times: 1
+	Query: "Haliaeetus leucocephalus Ontario" ; Times: 10
+	Query: "Athene cunicularia Ontario" ; Times: 10
+	Query: "carcharodon carcharias" ; Times: 3
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 3
+	Query: "type:specimen specificepithet:stolzmanni genus:Tachycineta" ; Times: 1
+	Query: "Stegosaurus" ; Times: 2
+	Query: "Asio flammeus Ontario" ; Times: 10
+	Query: "Dyoplosaurus" ; Times: 1
+	Query: "eryops" ; Times: 1
+	Query: "kinosternon subrubrum steindachneri" ; Times: 1
+	Query: "Tyto alba Ontario 1" ; Times: 1
+	Query: "Mymoorapelta" ; Times: 1
+	Query: "aguti" ; Times: 2
+	Query: "Dissorophus" ; Times: 1
+	Query: "ROM 30246" ; Times: 1
+	Query: "Chelydra serpentina Ontario" ; Times: 10
+	Query: "phalacrocorax carbo (africa)" ; Times: 1
+	Query: "Phalaropus lobatus Ontario" ; Times: 10
+	Query: "Edmontonia" ; Times: 1
+	Query: "carcharhinus isodon" ; Times: 1
+	Query: "temnospondyl" ; Times: 2
+	Query: "cacops" ; Times: 1
+	Query: "mammal institutioncode:ROM" ; Times: 1
+	Query: "Podiceps auritus Ontario" ; Times: 10
+	Query: "dimetrodon" ; Times: 4
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "Hirundo rustica  Ontario" ; Times: 10
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "63498" ; Times: 1
+	Query: "57993" ; Times: 1
+	Query: "Athene cunicularia ONTARIO 1" ; Times: 2
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "type:specimen genus:Micrurus family:Elapidae institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "Athene cunicularia Ontario 1" ; Times: 1
+	Query: "class:Reptilia county:&#34;York&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Rhynchospiza stolzmanni" ; Times: 1
+	Query: "Hirundo rustica  ONTARIO 1" ; Times: 2
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "Hirundo rustica  Ontario 1" ; Times: 1
+	Query: "Tyto alba ONTARIO 1" ; Times: 2
+	Query: "(mammal) institutioncode:ROM" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Tyto alba Ontario" ; Times: 10
+	Query: "Pelecanus erythrorhynchos Ontario" ; Times: 10
+	Query: "67524" ; Times: 3
+	Query: "ROM 30259" ; Times: 2
+	Query: "MEGACHASMIDAE" ; Times: 1
+	Query: "98 ONTARIO 1" ; Times: 1
+	Query: "Panoplosaurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 1312 download events in this period)
+Total number of records downloaded: 3829
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Panama ; Times: 61
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 32
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-23 ; Times: 3
+	Date: 2016-04-22 ; Times: 16
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "MITSUKURINIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "TRACHICHTHYIDAE" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "temnospondyli" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "Rhynchospiza stolzmanni" ; Times: 1
+	Query: "MEGALOPIDAE" ; Times: 1
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "ISTIOPHORIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "PRISTIOPHORIDAE" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "CHANIDAE" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "lacm mammalia" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "BREGMACEROTIDAE" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "MEGACHASMIDAE" ; Times: 1
+
+
+End of report.
