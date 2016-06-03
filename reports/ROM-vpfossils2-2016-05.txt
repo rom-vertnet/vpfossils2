@@ -1,0 +1,80 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 158
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-18 ; Times: 3
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 3
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-26 ; Times: 4
+	Date: 2016-05-25 ; Times: 3
+	Date: 2016-05-31 ; Times: 19
+	Date: 2016-05-23 ; Times: 5
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "kinosternon steindachneri" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 7
+	Query: "R-67076" ; Times: 1
+	Query: "Dimetrodon" ; Times: 4
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "Trionyx triunguis" ; Times: 3
+	Query: "ROM 21704" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 1
+	Query: "genus:deirochelys" ; Times: 2
+	Query: "specificepithet:exasperata genus:Zapteryx" ; Times: 3
+	Query: "ROM 31683" ; Times: 1
+	Query: "Saurolophus" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 10
+	Query: "64234" ; Times: 1
+	Query: "ROM 31783" ; Times: 1
+	Query: "dodo" ; Times: 4
+	Query: "deirochelys" ; Times: 1
+	Query: "numenius borealis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 327 download events in this period)
+Total number of records downloaded: 134
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-31 ; Times: 15
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "kinosternon steindachneri" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "mongolia" ; Times: 1
+	Query: "gasterosteus" ; Times: 1
+
+
+End of report.
