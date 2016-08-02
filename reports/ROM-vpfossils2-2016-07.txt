@@ -1,0 +1,119 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 772
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Portugal ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 27
+	Country: United Kingdom ; Times: 3
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 1
+	Date: 2016-07-10 ; Times: 1
+	Date: 2016-07-13 ; Times: 2
+	Date: 2016-07-12 ; Times: 1
+	Date: 2016-07-20 ; Times: 4
+	Date: 2016-07-17 ; Times: 2
+	Date: 2016-07-22 ; Times: 2
+	Date: 2016-07-19 ; Times: 4
+	Date: 2016-07-18 ; Times: 7
+	Date: 2016-07-08 ; Times: 2
+	Date: 2016-07-29 ; Times: 11
+	Date: 2016-07-15 ; Times: 3
+	Date: 2016-07-21 ; Times: 2
+	Date: 2016-07-14 ; Times: 1
+	Date: 2016-07-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Troodon" ; Times: 1
+	Query: "catalognumber:18873" ; Times: 1
+	Query: "specificepithet:cromis genus:Pogonias" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 2
+	Query: "Temnurus temnurus institutioncode:ROM" ; Times: 1
+	Query: "Dendrocygna autumnalis 1" ; Times: 1
+	Query: "Dinornis" ; Times: 1
+	Query: "00331" ; Times: 1
+	Query: "Trionyx triunguis" ; Times: 2
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 1
+	Query: "melanopareia" ; Times: 1
+	Query: "R-66881" ; Times: 1
+	Query: "Stygimoloch" ; Times: 1
+	Query: "R.65002" ; Times: 1
+	Query: "69104" ; Times: 1
+	Query: "specificepithet:mokarran genus:Sphyrna" ; Times: 1
+	Query: "Melanopareia type:specimen" ; Times: 1
+	Query: "trionyx triunguis" ; Times: 1
+	Query: "Trachemys scripta 1" ; Times: 2
+	Query: "specificepithet:oxyrinchus genus:Isurus" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 2
+	Query: "gbifdatasetid:210babc8-5723-41ac-bb13-c834590dbb15" ; Times: 2
+	Query: "R-69104" ; Times: 1
+	Query: "specificepithet:narinari genus:Aetobatus" ; Times: 1
+	Query: "COLUMBINA CRUZIANA" ; Times: 1
+	Query: "Troodon institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 1
+	Query: "Pseudemys concinna 1" ; Times: 1
+	Query: "36259 fossil:1" ; Times: 2
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "tyrannosaurus" ; Times: 1
+	Query: "class:Osteichthyes stateprovince:&#34;ontario&#34; country:&#34;canada&#34;" ; Times: 2
+	Query: "numenius borealis" ; Times: 1
+	Query: "Oxyura hulberti" ; Times: 1
+	Query: "specificepithet:faber genus:Chaetodipterus" ; Times: 1
+	Query: "36294" ; Times: 1
+	Query: "18964 aves" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1219 download events in this period)
+Total number of records downloaded: 1744
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 5
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-13 ; Times: 1
+	Date: 2016-07-15 ; Times: 1
+	Date: 2016-07-14 ; Times: 3
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-19 ; Times: 2
+	Date: 2016-07-08 ; Times: 3
+	Date: 2016-07-23 ; Times: 1
+	Date: 2016-07-28 ; Times: 1
+	Date: 2016-07-07 ; Times: 5
+	Date: 2016-07-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "COLUMBINA CRUZIANA" ; Times: 1
+	Query: "&#34;Anser albifrons&#34;" ; Times: 1
+	Query: "boidae" ; Times: 1
+	Query: "Melanopareia type:specimen" ; Times: 1
+	Query: "Trionyx triunguis" ; Times: 1
+	Query: "mammalia Mexico" ; Times: 4
+	Query: "Casuarius" ; Times: 1
+	Query: "reptilia Mexico" ; Times: 6
+	Query: "Ochotona" ; Times: 1
+	Query: "Michigan Mammalia" ; Times: 1
+	Query: "class:Osteichthyes stateprovince:&#34;ontario&#34; country:&#34;canada&#34;" ; Times: 1
+
+
+End of report.
