@@ -1,0 +1,135 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 91
+Number of records retrieved in searches: 455
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 71
+	Country: Australia ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Austria ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-15 ; Times: 11
+	Date: 2016-08-16 ; Times: 4
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 3
+	Date: 2016-08-21 ; Times: 6
+	Date: 2016-08-20 ; Times: 23
+	Date: 2016-08-30 ; Times: 5
+	Date: 2016-08-31 ; Times: 11
+	Date: 2016-08-23 ; Times: 10
+	Date: 2016-08-19 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "ROM 30117" ; Times: 1
+	Query: "ROM 71290" ; Times: 3
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 1
+	Query: "Carcharias" ; Times: 1
+	Query: "specificepithet:cromis genus:Pogonias" ; Times: 1
+	Query: "71290" ; Times: 1
+	Query: "Tarbosaurus" ; Times: 1
+	Query: "PAB" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 2
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 3
+	Query: "Aepyornis" ; Times: 2
+	Query: "CA 11098" ; Times: 3
+	Query: "class:Osteichthyes type:specimen mappable:1" ; Times: 1
+	Query: "class:Osteichthyes type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "ROM 52560" ; Times: 2
+	Query: "catalognumber:59141 institutioncode:ROM" ; Times: 1
+	Query: "bisti" ; Times: 1
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "catalognumber:68554 institutioncode:ROM" ; Times: 1
+	Query: "ROM 52570" ; Times: 1
+	Query: "class:Osteichthyes type:specimen tissue:1" ; Times: 1
+	Query: "Dicrodon" ; Times: 1
+	Query: "catalognumber:71227 institutioncode:ROM" ; Times: 1
+	Query: "Odontopteryx" ; Times: 1
+	Query: "catalognumber:55647 institutioncode:ROM" ; Times: 1
+	Query: "ROM 71033" ; Times: 1
+	Query: "ROM 71030" ; Times: 2
+	Query: "type:specimen family:tinamidae institutioncode:ROM" ; Times: 1
+	Query: "grand staircase escalante national monument" ; Times: 1
+	Query: "Tarbosaurus bataar" ; Times: 1
+	Query: "Dunkleosteus" ; Times: 1
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "catalognumber:68582 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:Isurus" ; Times: 3
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 5
+	Query: "52883" ; Times: 1
+	Query: "ROM 00334" ; Times: 1
+	Query: "reptilia bisti" ; Times: 3
+	Query: "ROM ophisaurus" ; Times: 1
+	Query: "catalognumber:68581 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 2
+	Query: "Dicynodon" ; Times: 2
+	Query: "ROM 12810" ; Times: 1
+	Query: "specificepithet:carcharias genus:Carcharodon" ; Times: 2
+	Query: "specificepithet:narinari genus:Aetobatus" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:brevirostris genus:Negaprion" ; Times: 2
+	Query: "genus:emeus" ; Times: 2
+	Query: "Plateosaurus" ; Times: 1
+	Query: "ROM 52568" ; Times: 1
+	Query: "Cynognathus" ; Times: 1
+	Query: "specificepithet:hippos genus:Caranx" ; Times: 1
+	Query: "ROM 32261" ; Times: 2
+	Query: "ROM 12809" ; Times: 1
+	Query: "ROM 01860" ; Times: 3
+	Query: "catalognumber:70989 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:faber genus:Chaetodipterus" ; Times: 3
+	Query: "Thrinaxodon" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "ROM 68491" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 924 download events in this period)
+Total number of records downloaded: 2480
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Austria ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mecca" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Clark county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "Dicrodon" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+
+
+End of report.
