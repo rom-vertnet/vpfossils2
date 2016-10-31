@@ -1,0 +1,78 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 3323
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 26
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 10
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-08 ; Times: 14
+	Date: 2016-09-09 ; Times: 10
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-07 ; Times: 6
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-02 ; Times: 3
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Carcharias" ; Times: 1
+	Query: "Dendrocygna autumnalis 1" ; Times: 2
+	Query: "Chloephaga melanoptera 1" ; Times: 1
+	Query: "Platalea ajaja 1" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "gopherus polyphemus" ; Times: 3
+	Query: "Penelope purpurascens 1" ; Times: 1
+	Query: "Falco femoralis 1" ; Times: 2
+	Query: "Zenaida auriculata 1" ; Times: 1
+	Query: "Forpus coelestis 1" ; Times: 1
+	Query: "Vultur gryphus 1" ; Times: 1
+	Query: "70064" ; Times: 1
+	Query: "Columbina cruziana 1" ; Times: 1
+	Query: "pseudemys nelsoni" ; Times: 1
+	Query: "Apalone ferox 1" ; Times: 1
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 2
+	Query: "mosasauridae" ; Times: 1
+	Query: "Anser albifrons 1" ; Times: 2
+	Query: "Carcharodon" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 4
+	Query: "Pseudemys concinna 1" ; Times: 1
+	Query: "69273" ; Times: 1
+	Query: "Eudocimus albus 1" ; Times: 1
+	Query: "Parabuteo unicinctus 1" ; Times: 1
+	Query: "Trachemys scripta 1" ; Times: 4
+	Query: "Anas bahamensis 1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 811 download events in this period)
+Total number of records downloaded: 35
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "falco peregrinus continent:america" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
