@@ -1,0 +1,114 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 167
+Number of records retrieved in searches: 941
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 32
+	Country: United Kingdom ; Times: 97
+	Country: Germany ; Times: 2
+	Country: Japan ; Times: 24
+	Country: Argentina ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 9
+	Date: 2018-04-12 ; Times: 3
+	Date: 2018-04-03 ; Times: 4
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-17 ; Times: 2
+	Date: 2018-04-07 ; Times: 33
+	Date: 2018-04-06 ; Times: 59
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-18 ; Times: 20
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-22 ; Times: 7
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-21 ; Times: 4
+	Date: 2018-04-20 ; Times: 10
+	Date: 2018-04-27 ; Times: 4
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "46441" ; Times: 1
+	Query: "specificepithet:dominicus genus:Tachybaptus hastissue:1" ; Times: 2
+	Query: "Raphus cucullatus" ; Times: 117
+	Query: "genus: Raphus" ; Times: 1
+	Query: "Buteo institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "genus:Alligator preparations:skeleton" ; Times: 3
+	Query: "Tiktaalik" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guayas&#34; country:&#34;Ecuador&#34; AND (NOT MCZ NOT USNM NOT KU NOT AMNH) institutioncode:ROM" ; Times: 2
+	Query: "dubium" ; Times: 1
+	Query: "institutioncode:rom hesperornis" ; Times: 1
+	Query: "29110" ; Times: 1
+	Query: "vultur gryphus" ; Times: 10
+	Query: "specificepithet:auritus genus:Podiceps hastissue:1" ; Times: 2
+	Query: "68904" ; Times: 1
+	Query: "genus:Raphus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Guayas&#34; country:&#34;Ecuador&#34; AND (NOT MCZ NOT USNM NOT KU NOT AMNH)" ; Times: 4
+	Query: "Florida bass" ; Times: 2
+	Query: "genus:Lithobates country:&#34;USA&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guayas&#34; country:&#34;Ecuador&#34; institutioncode:ROM" ; Times: 2
+	Query: "Aythya collaris hastissue:1" ; Times: 4
+	Query: "13989" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "genus:aepyornis" ; Times: 2
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Guayas&#34; country:&#34;Ecuador&#34; institutioncode:ROM" ; Times: 1
+	Query: "institutioncode:rom Mosasaur" ; Times: 1
+	Query: "recordedby:Mowat" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1359 download events in this period)
+Total number of records downloaded: 478
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-06 ; Times: 3
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "caracara" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "Esox lucius" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 1
+	Query: "recordedby:Mowat" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "Lates niloticus" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+
+
+End of report.
