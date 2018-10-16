@@ -1,0 +1,141 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 230
+Number of records retrieved in searches: 4220
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 214
+	Country: Canada ; Times: 12
+	Country: Argentina ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 7
+	Date: 2018-03-06 ; Times: 12
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-07 ; Times: 2
+	Date: 2018-03-23 ; Times: 10
+	Date: 2018-03-12 ; Times: 5
+	Date: 2018-03-01 ; Times: 8
+	Date: 2018-03-02 ; Times: 10
+	Date: 2018-03-03 ; Times: 6
+	Date: 2018-03-13 ; Times: 8
+	Date: 2018-03-05 ; Times: 12
+	Date: 2018-03-28 ; Times: 16
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-26 ; Times: 39
+	Date: 2018-03-09 ; Times: 5
+	Date: 2018-03-27 ; Times: 21
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 26
+	Date: 2018-03-21 ; Times: 35
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gopherus specificepithet:polyphemus" ; Times: 6
+	Query: "genus:Saurornitholestes specificepithet:langstoni" ; Times: 6
+	Query: "catalognumber:25690 institutioncode:ROM" ; Times: 2
+	Query: "genus:Lepisosteus specificepithet:platyrhincus" ; Times: 5
+	Query: "class:Aves (17829)" ; Times: 1
+	Query: "44414" ; Times: 1
+	Query: "14C isfossil:1" ; Times: 1
+	Query: "72742" ; Times: 1
+	Query: "genus:Alligator specificepithet:mississippiensis" ; Times: 2
+	Query: "50204" ; Times: 1
+	Query: "genus:Pristis specificepithet:pectinata" ; Times: 5
+	Query: "genus:Bagre specificepithet:marinus" ; Times: 2
+	Query: "class:aves (16522)" ; Times: 1
+	Query: "catalognumber:42382" ; Times: 2
+	Query: "genus:Dromaeosaurus specificepithet:albertensis" ; Times: 6
+	Query: "Megalodon south carolina" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:guttata" ; Times: 5
+	Query: "genus:Chelydra" ; Times: 1
+	Query: "genus:Dicynodon" ; Times: 3
+	Query: "catalognumber:64879" ; Times: 1
+	Query: "(Lithobates catesbeianus)" ; Times: 2
+	Query: "aepyornis maximus" ; Times: 6
+	Query: "genus:Alligator  specificepithet:mississippiensis" ; Times: 3
+	Query: "genus:Chelydra specificepithet:serpentina" ; Times: 2
+	Query: "genus:Sphaerotholus" ; Times: 3
+	Query: "genus:Massospondylus specificepithet:carinatus" ; Times: 5
+	Query: "genus:Trachemys specificepithet:inflata" ; Times: 5
+	Query: "specificepithet:americanus genus:Gavialosuchus" ; Times: 1
+	Query: "genus:Ardea specificepithet:cinerea" ; Times: 2
+	Query: "aepyornis" ; Times: 9
+	Query: "genus:Megalops specificepithet:atlanticus" ; Times: 5
+	Query: "glanochthon" ; Times: 1
+	Query: "class:Aves recordedby:McConnell" ; Times: 1
+	Query: "genus:Limnopus" ; Times: 3
+	Query: "47432`" ; Times: 1
+	Query: "genus:Toxochelys specificepithet:latiremis" ; Times: 6
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 6
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 6
+	Query: "&#34;14C&#34; isfossil:1" ; Times: 10
+	Query: "genus:Barbus specificepithet:bynni" ; Times: 5
+	Query: "genus:Aepyornis" ; Times: 3
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 6
+	Query: "seymouria" ; Times: 2
+	Query: "genus:Titanis specificepithet:walleri" ; Times: 5
+	Query: "(14C) isfossil:1" ; Times: 3
+	Query: "family:ceratopsidae institutioncode:ROM" ; Times: 8
+	Query: "genus:Vultur specificepithet:gryphus" ; Times: 5
+	Query: "genus:Stegoceras specificepithet:validum" ; Times: 5
+	Query: "16522 class:Aves" ; Times: 1
+	Query: "ROM 66456" ; Times: 1
+	Query: "52261" ; Times: 1
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 2
+	Query: "65223" ; Times: 1
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 5
+	Query: "Glanochthon" ; Times: 1
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 5
+	Query: "catalognumber:13463 hastissue:1" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 2
+	Query: "catalognumber:64268" ; Times: 1
+	Query: "Leon county Florida Crotalus" ; Times: 1
+	Query: "iguana institutioncode:ROM" ; Times: 8
+	Query: "16171" ; Times: 1
+	Query: "&#34;mya&#34; isfossil:1" ; Times: 1
+	Query: "genus:Xiphactinus specificepithet:audax" ; Times: 6
+	Query: "genus:Thrinaxodon specificepithet:liorhinus" ; Times: 5
+	Query: "genus:Platecarpus specificepithet:coryphaeus " ; Times: 6
+	Query: "genus:Tiktaalik specificepithet:roseae" ; Times: 5
+	Query: "order:Aepyornithiformes" ; Times: 1
+	Query: "genus:undet." ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1284 download events in this period)
+Total number of records downloaded: 52
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-10 ; Times: 4
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-27 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:alcidae hastissue:1" ; Times: 1
+	Query: "family:gruidae hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Grus" ; Times: 3
+	Query: "family:laridae hastissue:1" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "seymouria" ; Times: 1
+	Query: "Grus americana" ; Times: 1
+
+
+End of report.
