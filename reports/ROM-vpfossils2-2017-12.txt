@@ -1,0 +1,93 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 1257
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 16
+	Country: United States ; Times: 29
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-29 ; Times: 2
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-30 ; Times: 6
+	Date: 2017-12-25 ; Times: 7
+	Date: 2017-12-11 ; Times: 9
+	Date: 2017-12-23 ; Times: 1
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-21 ; Times: 2
+	Date: 2017-12-17 ; Times: 5
+	Date: 2017-12-14 ; Times: 4
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-01 ; Times: 15
+	Date: 2017-12-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:54571 institutioncode:ROM" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "catalognumber:08492" ; Times: 1
+	Query: "vntype:specimen family:Oviraptoridae AND (NOT teeth NOT tooth) institutioncode:ROM" ; Times: 1
+	Query: "18756 Aves" ; Times: 2
+	Query: "catalognumber:66763" ; Times: 1
+	Query: "vntype:specimen family:Dromaeosauridae AND (NOT teeth NOT tooth) institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen hastypestatus:1 hastissue:1 isfossil:1" ; Times: 2
+	Query: "vntype:specimen family:Ornithomimidae AND (NOT teeth NOT tooth) institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:69827 institutioncode:ROM" ; Times: 2
+	Query: "ROM 42037" ; Times: 1
+	Query: "vntype:specimen family:Troodontidae AND (NOT teeth NOT tooth) institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:platymarginata genus:Trachemys" ; Times: 7
+	Query: "vntype:specimen family:Caenagnathidae AND (NOT teeth NOT tooth) institutioncode:ROM" ; Times: 1
+	Query: "paleontology (wyoming) institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:platymarginata genus:Trachemys AND (NOT UF)" ; Times: 1
+	Query: "specificepithet:gryphus genus:Vultur year &gt;= 1800 year &lt;= 1970" ; Times: 1
+	Query: "vntype:specimen order:Theropoda AND (NOT teeth NOT tooth) institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:47641" ; Times: 2
+	Query: "family:Tinamidae institutioncode:ROM" ; Times: 1
+	Query: "(14C) isfossil:1" ; Times: 7
+	Query: "Mammalia (wyoming) institutioncode:ROM" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 2
+	Query: "genus:Sphyrna" ; Times: 4
+	Query: "gbifdatasetid:210babc8-5723-41ac-bb13-c834590dbb15" ; Times: 4
+	Query: "catalognumber:66653" ; Times: 1
+	Query: "Colubridae Charlotte florida" ; Times: 1
+	Query: "vntype:specimen family:Dromaeosauridae AND (NOT teeth OR tooth) institutioncode:ROM" ; Times: 1
+	Query: "class:reptilia locality:Hudson River" ; Times: 1
+	Query: "vntype:specimen (Dinosauria) institutioncode:ROM" ; Times: 1
+	Query: "Megalops atlanticus" ; Times: 1
+	Query: "vertebrate palaeontology (wyoming) institutioncode:ROM" ; Times: 2
+	Query: "Carcharhinus leucas" ; Times: 1
+	Query: "vntype:specimen family:Dromaeosauridae institutioncode:ROM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 674 download events in this period)
+Total number of records downloaded: 86
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "Rhinobatos" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+
+
+End of report.
