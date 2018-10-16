@@ -1,0 +1,92 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 221
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 16
+	Country: Canada ; Times: 8
+	Country: Portugal ; Times: 19
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 6
+	Date: 2018-02-20 ; Times: 16
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-27 ; Times: 16
+	Date: 2018-02-19 ; Times: 3
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-01 ; Times: 2
+	Date: 2018-02-05 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:31071 hastypestatus:1" ; Times: 1
+	Query: "Negaprion brevirostris" ; Times: 2
+	Query: "specificepithet:dominicus genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 4
+	Query: "Trachemys scripta mappable:1" ; Times: 3
+	Query: "Macrochelys temminckii mappable:1" ; Times: 7
+	Query: "genus:&#34;limnopus&#34;" ; Times: 1
+	Query: "recordedby:Westrop" ; Times: 1
+	Query: "vntype:specimen genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "Alligator mississippiensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:dominicus genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "quetzalcoatlus" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "Pseudemys concinna mappable:1" ; Times: 8
+	Query: "genus:Palaeophis" ; Times: 2
+	Query: "46181" ; Times: 1
+	Query: "specificepithet:cirratum genus:Ginglymostoma isfossil:1" ; Times: 1
+	Query: "institutioncode:ROM coelophysis" ; Times: 5
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "macbride" ; Times: 1
+	Query: "catalognumber:18242 institutioncode:ROM" ; Times: 2
+	Query: "holsti" ; Times: 1
+	Query: "stateprovince:&#34;Kansas&#34; year &gt;= 1979 year &lt;= 1987 basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "acanthodians" ; Times: 2
+	Query: "Trachemys scripta scripta mappable:1" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "Coelophysis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1892 download events in this period)
+Total number of records downloaded: 257
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 5
+	Date: 2018-02-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "vntype:specimen genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "family:Gaviidae hastissue:1" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco hastissue:1" ; Times: 1
+	Query: "specificepithet:rumicivorus genus:Thinocorus" ; Times: 1
+	Query: "testudinidae" ; Times: 1
+
+
+End of report.
