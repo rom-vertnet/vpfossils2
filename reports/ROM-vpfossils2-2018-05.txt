@@ -1,0 +1,118 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 537
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 34
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Colombia ; Times: 4
+	Country: Puerto Rico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 19
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-04 ; Times: 5
+	Date: 2018-05-05 ; Times: 6
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 5
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-29 ; Times: 4
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-11 ; Times: 4
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "apertus" ; Times: 1
+	Query: "rom 43084" ; Times: 1
+	Query: "rom 30260" ; Times: 1
+	Query: "specificepithet:peruviana genus:Sporophila" ; Times: 1
+	Query: "rom 30263" ; Times: 1
+	Query: "specificepithet:stolzmanni genus:Tachycineta" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "Caiman vntype:specimen (Caiman) institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "rom 44376" ; Times: 1
+	Query: "burhinus superciliaris" ; Times: 3
+	Query: "rom 18021" ; Times: 1
+	Query: "rom 43044" ; Times: 2
+	Query: "56785" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Icterus" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "Aythya collaris hastissue:1" ; Times: 2
+	Query: "rom 43071" ; Times: 1
+	Query: "aepyornis" ; Times: 4
+	Query: "specificepithet:carolina genus:Terrapene stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "family:Sphenodontidae preparations:skeleton" ; Times: 1
+	Query: "specificepithet:bellicosa genus:Sturnella" ; Times: 1
+	Query: "rom 17989" ; Times: 1
+	Query: "rom 41015" ; Times: 1
+	Query: "rom 43625" ; Times: 1
+	Query: "specificepithet:elegans genus:Melanopareia" ; Times: 1
+	Query: "mbr 5322" ; Times: 1
+	Query: "jmv" ; Times: 2
+	Query: "vntype:specimen order:Nectridea basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "rom 43059" ; Times: 1
+	Query: "specificepithet:stolzmanni genus:Rhynchospiza" ; Times: 1
+	Query: "rom 36948" ; Times: 2
+	Query: "specificepithet:cinerea genus:Piezorhina" ; Times: 1
+	Query: "ROM 11679" ; Times: 2
+	Query: "specificepithet:rufocollaris genus:Petrochelidon" ; Times: 1
+	Query: "specificepithet:bairdii genus:Myiodynastes" ; Times: 1
+	Query: "fossils" ; Times: 3
+	Query: "rom 32995" ; Times: 1
+	Query: "rom 18053" ; Times: 1
+	Query: "genus:Macrochelys stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "rom 33160" ; Times: 1
+	Query: "specificepithet:longicaudatus genus:Mimus" ; Times: 1
+	Query: "rom 28542" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1178 download events in this period)
+Total number of records downloaded: 68
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 3
+	Country: Austria ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-18 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 2
+	Date: 2018-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 1
+	Query: "Serpentes" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Amphiuma means" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+
+
+End of report.
