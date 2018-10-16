@@ -1,0 +1,117 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 1032
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 32
+	Country: Mexico ; Times: 26
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Bolivia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 18
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-30 ; Times: 3
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-06 ; Times: 2
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 8
+	Date: 2018-01-15 ; Times: 7
+	Date: 2018-01-17 ; Times: 10
+	Date: 2018-01-16 ; Times: 11
+	Date: 2018-01-11 ; Times: 5
+	Date: 2018-01-23 ; Times: 3
+	Date: 2018-01-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:caenagnathidae country:&#34;USA&#34; institutioncode:ROM" ; Times: 1
+	Query: "Icterus mesomelas" ; Times: 1
+	Query: "family:Pachycephalosauridae country:&#34;USA&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:platymarginata genus:trachemys" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "catalognumber:18385 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:31709 institutioncode:ROM" ; Times: 2
+	Query: "18139" ; Times: 1
+	Query: "specificepithet:platymarginata genus:trachemys AND (NOT UF)" ; Times: 1
+	Query: "Egretta thula" ; Times: 1
+	Query: "Dendrocygna autumnalis autumnalis vntype:specimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:superciliaris genus:burhinus" ; Times: 1
+	Query: "specificepithet:platymarginata genus:Trachemys" ; Times: 1
+	Query: "genus:Vultur hastissue:1" ; Times: 1
+	Query: "catalognumber:31710 institutioncode:ROM" ; Times: 2
+	Query: "family:hadrosauridae country:&#34;USA&#34; institutioncode:ROM" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "family:Ankylosauridae country:&#34;USA&#34; institutioncode:ROM" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "family:Dromaeosauridae country:&#34;USA&#34; institutioncode:ROM" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "catalognumber:18232 institutioncode:rom" ; Times: 1
+	Query: "catalognumber:31712 institutioncode:ROM" ; Times: 2
+	Query: "Ariopsis felis" ; Times: 2
+	Query: "catalognumber:18144 institutioncode:rom" ; Times: 3
+	Query: "family:ceratopsidae country:&#34;USA&#34; institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:31718 institutioncode:ROM" ; Times: 2
+	Query: "family:Hypsilophodontidae country:&#34;USA&#34; institutioncode:ROM" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "family:Tyrannosauridae country:&#34;USA&#34; institutioncode:ROM" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 1
+	Query: "(&#34;14C&#34;)" ; Times: 1
+	Query: "catalognumber:18244 institutioncode:rom" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Hell Creek Fm." ; Times: 1
+	Query: "Bagre marinus" ; Times: 2
+	Query: "family:ceratopsidae institutioncode:ROM" ; Times: 3
+	Query: "ROM-62601" ; Times: 3
+	Query: "Ardea alba" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Anas americana" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "archaeopteryx" ; Times: 2
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "genus:Triceratops" ; Times: 4
+	Query: "Aythya collaris" ; Times: 1
+	Query: "genus:Thescelosaurus country:&#34;USA&#34; institutioncode:ROM" ; Times: 1
+	Query: "Megalops atlanticus" ; Times: 2
+	Query: "family:Ornithomimidae country:&#34;USA&#34; institutioncode:ROM" ; Times: 1
+	Query: "Carcharhinus leucas" ; Times: 2
+	Query: "Jabiru mycteria" ; Times: 1
+	Query: "61419" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1398 download events in this period)
+Total number of records downloaded: 96
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Vultur hastissue:1" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "aplodinotus grunniens" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "genus:Coragyps hastissue:1" ; Times: 1
+
+
+End of report.
