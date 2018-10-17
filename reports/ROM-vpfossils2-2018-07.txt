@@ -1,0 +1,110 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 2942
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Unknown ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 26
+	Country: New Zealand ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-08 ; Times: 2
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-23 ; Times: 7
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-24 ; Times: 21
+	Date: 2018-07-03 ; Times: 7
+	Date: 2018-07-31 ; Times: 3
+	Date: 2018-07-29 ; Times: 5
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-25 ; Times: 2
+	Date: 2018-07-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Anhinga anhinga mappable:1" ; Times: 1
+	Query: "timimus hermani" ; Times: 1
+	Query: "javelina" ; Times: 1
+	Query: "Ardea alba mappable:1" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 2
+	Query: "Drymarchon florida" ; Times: 1
+	Query: "Gadus morhua" ; Times: 1
+	Query: "Crotalus adamanteus Leon county" ; Times: 1
+	Query: "13128 aves" ; Times: 1
+	Query: "specificepithet:hermani genus:timimus" ; Times: 1
+	Query: "Chloephaga melanoptera" ; Times: 2
+	Query: "Mycteria americana mappable:1" ; Times: 1
+	Query: "catalognumber:44449" ; Times: 1
+	Query: "catalognumber:44448" ; Times: 1
+	Query: "catalognumber:13864 institutioncode:ROM" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "42239" ; Times: 1
+	Query: "catalognumber:52844" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "73161" ; Times: 1
+	Query: "ROM 70851" ; Times: 2
+	Query: "genus:Vultur institutioncode:ROM" ; Times: 5
+	Query: "dinornis" ; Times: 2
+	Query: "18420 aves" ; Times: 2
+	Query: "genus:Drymarchon country:&#34;USA&#34;" ; Times: 1
+	Query: "Taylor county Florida Crotalus" ; Times: 1
+	Query: "Anas bahamensis" ; Times: 2
+	Query: "65253" ; Times: 1
+	Query: "paucidens" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "76389" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 2
+	Query: "ROM 14964" ; Times: 1
+	Query: "Crotalus Leon county" ; Times: 1
+	Query: "Columbina cruziana" ; Times: 2
+	Query: "genus:DICRODON stateprovince:&#34;PIURA&#34;" ; Times: 6
+	Query: "Penelope purpurascens" ; Times: 2
+	Query: "16129 aves" ; Times: 1
+	Query: "Egretta thula mappable:1" ; Times: 1
+	Query: "18509 AVES" ; Times: 2
+	Query: "68499" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis stateprovince:&#34;Florida&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 2
+	Query: "Crypturellus transfasciatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 977 download events in this period)
+Total number of records downloaded: 7474
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 1
+	Query: "class:Aves institutioncode:ROM hastypestatus:1" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "macrochelys" ; Times: 1
+
+
+End of report.
