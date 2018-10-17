@@ -1,0 +1,101 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 163
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Australia ; Times: 18
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 19
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 4
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-05 ; Times: 5
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-02 ; Times: 2
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-25 ; Times: 15
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 3
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "42139-1" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "Paleoniscoid" ; Times: 1
+	Query: "institutioncode:ROM corythosaurus" ; Times: 2
+	Query: "country:Ecuador scientificname:Rhinoclemmys melanosterna " ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "rom 44291" ; Times: 1
+	Query: "Rhinoclemmys melanosterna" ; Times: 1
+	Query: "ROM 16805" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "vntype:specimen order:Galliformes institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:portentosus genus:Avimimus institutioncode:ROM" ; Times: 1
+	Query: "49503" ; Times: 1
+	Query: "70092" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "institutioncode:ROM ostrich" ; Times: 2
+	Query: "catalognumber:33281 institutioncode:ROM" ; Times: 2
+	Query: "Macrochelys" ; Times: 2
+	Query: "59215" ; Times: 1
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "numenius borealis" ; Times: 19
+	Query: "macrochelys" ; Times: 1
+	Query: "hesperornis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1169 download events in this period)
+Total number of records downloaded: 54
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "moose" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "elephant" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 1
+
+
+End of report.
