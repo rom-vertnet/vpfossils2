@@ -1,0 +1,101 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 238
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Turkey ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Canada ; Times: 8
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-02 ; Times: 2
+	Date: 2018-09-17 ; Times: 5
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 5
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-22 ; Times: 2
+	Date: 2018-09-05 ; Times: 4
+	Date: 2018-09-19 ; Times: 3
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-08 ; Times: 2
+	Date: 2018-09-09 ; Times: 2
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:polyphemus genus:gopherus" ; Times: 1
+	Query: "genus: rhamphorhynchus" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "ciconia ciconia" ; Times: 1
+	Query: "sharks" ; Times: 2
+	Query: "catalognumber:41993 institutioncode:ROM isfossil:1" ; Times: 3
+	Query: "Leon county crotalus" ; Times: 1
+	Query: "Pachycephalosaurus" ; Times: 2
+	Query: "family:emydidae county:&#34;charlotte&#34;" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Florida pituophis" ; Times: 2
+	Query: "aepyornis" ; Times: 1
+	Query: "Stygimoloch" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "numenius arquata canada" ; Times: 1
+	Query: "family:Xenodontidae" ; Times: 1
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 1
+	Query: "ciconia ciconia hastissue:1" ; Times: 1
+	Query: "Deirochelys" ; Times: 1
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "family:Lamnidae county:&#34;charlotte&#34;" ; Times: 1
+	Query: "49597 mammalia" ; Times: 2
+	Query: "Ancistrodon" ; Times: 1
+	Query: "hylonomus lyelli" ; Times: 2
+	Query: "genus:Chelydra specificepithet:serpentina" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "family:Lamnidae county:&#34;sarasota&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 846 download events in this period)
+Total number of records downloaded: 195
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 4
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "Pachycephalosaurus" ; Times: 2
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 2
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "macroclemys" ; Times: 1
+
+
+End of report.
