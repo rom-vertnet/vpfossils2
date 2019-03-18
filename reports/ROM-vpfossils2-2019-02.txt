@@ -1,0 +1,111 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 890
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 17
+	Country: United States ; Times: 31
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Serbia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-05 ; Times: 4
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-10 ; Times: 5
+	Date: 2019-02-26 ; Times: 3
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-20 ; Times: 8
+	Date: 2019-02-07 ; Times: 2
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-21 ; Times: 2
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-09 ; Times: 5
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-01 ; Times: 9
+	Date: 2019-02-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "fossil bird" ; Times: 1
+	Query: "family:Icteridae institutioncode:ROM" ; Times: 8
+	Query: "genus:lates hastissue:1" ; Times: 4
+	Query: "Graptemys barbouri" ; Times: 1
+	Query: "genus:Sicalis institutioncode:ROM" ; Times: 1
+	Query: "country:&#34;Australia&#34; institutioncode:ROM basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "ROM 75874" ; Times: 1
+	Query: "coelophysis" ; Times: 1
+	Query: "Tetrax hastissue:1" ; Times: 3
+	Query: "ROM 75878" ; Times: 1
+	Query: "Herrerasaurus" ; Times: 2
+	Query: "genus:Rhynchospiza" ; Times: 1
+	Query: "country:(Kyrgyzstan)" ; Times: 1
+	Query: "ROM 41891" ; Times: 1
+	Query: "genus:tetrax hastissue:1" ; Times: 2
+	Query: "genus:Melanopareia institutioncode:ROM" ; Times: 4
+	Query: "Crypturellus transfasciatus" ; Times: 1
+	Query: "Dilophosaurus" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "Aetobatus narinari" ; Times: 1
+	Query: "73020" ; Times: 1
+	Query: "family:Otididae hastissue:1" ; Times: 2
+	Query: "Megalosaurus" ; Times: 1
+	Query: "diplocynodon" ; Times: 2
+	Query: "deirochelys" ; Times: 4
+	Query: "Raphus cucullatus" ; Times: 1
+	Query: "35018 aves" ; Times: 1
+	Query: "genus:gopherus isfossil:1" ; Times: 2
+	Query: "Rhynchospiza" ; Times: 1
+	Query: "collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "genus:Tetrax tetrax" ; Times: 1
+	Query: "Tetrax family:Otididae hastissue:1" ; Times: 1
+	Query: "ROM 75882" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1227 download events in this period)
+Total number of records downloaded: 914
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "locality:Medicine Hat collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "genus:Tetrax tetrax" ; Times: 1
+	Query: "Crypturellus transfasciatus" ; Times: 1
+
+
+End of report.
