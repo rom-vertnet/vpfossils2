@@ -1,0 +1,102 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 471
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 13
+	Country: Switzerland ; Times: 3
+	Country: Canada ; Times: 10
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 3
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-11 ; Times: 3
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-06 ; Times: 3
+	Date: 2019-04-26 ; Times: 4
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-02 ; Times: 4
+	Date: 2019-04-05 ; Times: 9
+	Date: 2019-04-29 ; Times: 7
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pituophis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "pseudemys concinna florida" ; Times: 1
+	Query: "catalognumber:67240 institutioncode:ROM" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 2
+	Query: "catalognumber:54552 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:30579 institutioncode:ROM" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "rallus elegans vntype:specimen hastissue:1" ; Times: 1
+	Query: "30274 mammalia" ; Times: 1
+	Query: "tetrax tetrax" ; Times: 1
+	Query: "64422" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "gbifdatasetid:210babc8-5723-41ac-bb13-c834590dbb15" ; Times: 1
+	Query: "catalognumber:32033 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:72080 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "catalognumber:54554 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:constrictor genus:coluber institutioncode:ROM" ; Times: 8
+	Query: "genus:amphiuma basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "sclerotic ring" ; Times: 3
+	Query: "emydoidea blandingi" ; Times: 3
+	Query: "53583" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "specificepithet:rufocollaris genus:petrochelidon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1263 download events in this period)
+Total number of records downloaded: 262
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-02 ; Times: 2
+	Date: 2019-04-29 ; Times: 2
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:grus genus:grus" ; Times: 1
+	Query: "Kyrgyzstan" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "rom catesbeianus" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "genus:rhinoclemmys order:testudines" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "specificepithet:rufocollaris genus:petrochelidon" ; Times: 1
+
+
+End of report.
