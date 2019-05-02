@@ -1,0 +1,120 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 821
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 43
+	Country: Netherlands ; Times: 3
+	Country: France ; Times: 3
+	Country: United States ; Times: 12
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 9
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-31 ; Times: 3
+	Date: 2019-03-18 ; Times: 9
+	Date: 2019-03-05 ; Times: 2
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-01 ; Times: 11
+	Date: 2019-03-29 ; Times: 23
+	Date: 2019-03-11 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "73139" ; Times: 1
+	Query: "eusthenopteron" ; Times: 2
+	Query: "catalognumber:77153 institutioncode:ROM" ; Times: 2
+	Query: "70247" ; Times: 1
+	Query: "Theropoda collectioncode:Vertebrate Paleontology institutioncode:ROM" ; Times: 1
+	Query: "Dinosauria class:Reptilia institutioncode:ROM" ; Times: 1
+	Query: "class:Reptilia AND (Alligator) institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "mazon creek fossils" ; Times: 1
+	Query: "Negaprion brevirostris mappable:1" ; Times: 1
+	Query: "catalognumber:77160 institutioncode:ROM" ; Times: 2
+	Query: "velociraptor" ; Times: 1
+	Query: "herrerasaurus" ; Times: 1
+	Query: "collectioncode:Vertebrate Paleontology (Dinosauria) institutioncode:ROM" ; Times: 1
+	Query: "diadectes" ; Times: 2
+	Query: "geranoaetus melanoleucus" ; Times: 1
+	Query: "ROM Vertebrate Palaeontology 63998" ; Times: 1
+	Query: "Theropoda family:Caenagnathidae collectioncode:Vertebrate Paleontology institutioncode:ROM" ; Times: 1
+	Query: "order:Saurischia collectioncode:Vertebrate Paleontology institutioncode:ROM" ; Times: 1
+	Query: "Odontaspis" ; Times: 1
+	Query: "catalognumber:77161 institutioncode:ROM" ; Times: 2
+	Query: "quetzalcoatlus" ; Times: 1
+	Query: "family:Otididae hastissue:1" ; Times: 3
+	Query: "daspletosaurus" ; Times: 1
+	Query: "catalognumber:77154 institutioncode:ROM" ; Times: 2
+	Query: "51438" ; Times: 1
+	Query: "70265" ; Times: 2
+	Query: "Aetobatus narinari mappable:1" ; Times: 2
+	Query: "class:Reptilia collectioncode:Vertebrate Paleontology institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "Aetobatus" ; Times: 1
+	Query: "genus:Tetrax hastissue:1" ; Times: 2
+	Query: "collectioncode:Vertebrate institutioncode:ROM" ; Times: 1
+	Query: "gallimimus" ; Times: 1
+	Query: "Pseudemys AL" ; Times: 1
+	Query: "collectioncode:Vertebrate Paleontology (Theropod) institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:77156 institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:77155 institutioncode:ROM" ; Times: 2
+	Query: "class:Reptilia collectioncode:Vertebrate Paleontology institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:77157 institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:77159 institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:77152 institutioncode:ROM" ; Times: 2
+	Query: "eoraptor" ; Times: 1
+	Query: "Dinosauria class:Reptilia collectioncode:Vertebrate Paleontology institutioncode:ROM" ; Times: 1
+	Query: "family:Caenagnathidae collectioncode:Vertebrate Paleontology institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:01947 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:77545 institutioncode:ROM" ; Times: 2
+	Query: "dilophosaurus" ; Times: 1
+	Query: "class:Reptilia institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "order:Saurischia class:Reptilia collectioncode:Vertebrate Paleontology institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:77158 institutioncode:ROM" ; Times: 2
+	Query: "collectioncode:Vertebrate Paleontology institutioncode:ROM" ; Times: 2
+	Query: "order:Dinornithiformes country:&#34;new zealand&#34; AND (skeleton)" ; Times: 1
+	Query: "Theropoda order:Saurischia collectioncode:Vertebrate Paleontology institutioncode:ROM" ; Times: 1
+	Query: "collectioncode:Vertebrate Paleontology (Saurischia) institutioncode:ROM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1281 download events in this period)
+Total number of records downloaded: 448
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 6
+	Country: Argentina ; Times: 5
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 2
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia collectioncode:Vertebrate Paleontology institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo hastissue:1" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "geranoaetus melanoleucus" ; Times: 1
+	Query: "county:&#34;emery&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "melanopareia" ; Times: 1
+	Query: "Buteo polyosoma" ; Times: 2
+	Query: "geranoaetus" ; Times: 2
+
+
+End of report.
