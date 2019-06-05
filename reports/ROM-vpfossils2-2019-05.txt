@@ -1,0 +1,108 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 108
+Number of records retrieved in searches: 342
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: United States ; Times: 23
+	Country: Bangladesh ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 15
+	Country: United Kingdom ; Times: 36
+	Country: Germany ; Times: 2
+	Country: New Zealand ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 2
+	Date: 2019-05-24 ; Times: 3
+	Date: 2019-05-27 ; Times: 3
+	Date: 2019-05-26 ; Times: 5
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-20 ; Times: 12
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-22 ; Times: 5
+	Date: 2019-05-03 ; Times: 2
+	Date: 2019-05-31 ; Times: 3
+	Date: 2019-05-28 ; Times: 6
+	Date: 2019-05-02 ; Times: 2
+	Date: 2019-05-07 ; Times: 2
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-08 ; Times: 3
+	Date: 2019-05-10 ; Times: 4
+	Date: 2019-05-06 ; Times: 11
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 36
+	Date: 2019-05-16 ; Times: 2
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aepyornis maximus" ; Times: 1
+	Query: "Negaprion brevirostris" ; Times: 1
+	Query: "Protopterus" ; Times: 2
+	Query: "Raphus cucullatus" ; Times: 1
+	Query: "ROM 14999" ; Times: 1
+	Query: "Macrochelys temminckii mappable:1" ; Times: 3
+	Query: "Negaprion brevirostris mappable:1" ; Times: 13
+	Query: "passerine birds" ; Times: 1
+	Query: "NA Peru" ; Times: 36
+	Query: "eodiaphyodus granulosus" ; Times: 11
+	Query: "Carcharhinus isodon" ; Times: 1
+	Query: "raphus cucullatus" ; Times: 1
+	Query: "catalognumber:12945 institutioncode:ROM" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 1
+	Query: "genus:Vultur institutioncode:ROM" ; Times: 4
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "Fossils" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "Dunkleosteus" ; Times: 2
+	Query: "genus:Vultur institutioncode:ROM tarsometatarsus" ; Times: 1
+	Query: "genus:egretta year &gt;= 1974 year &lt;= 1977" ; Times: 1
+	Query: "genus:Vultur institutioncode:ROM tibiotarsus" ; Times: 1
+	Query: "Carcharhinus perezii" ; Times: 1
+	Query: "genus:Theristicus institutioncode:ROM" ; Times: 6
+	Query: "Zapteryx exasperata" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "dodo" ; Times: 1
+	Query: "76486" ; Times: 1
+	Query: "specificepithet:constrictor genus:coluber institutioncode:ROM" ; Times: 4
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Aetobatus narinari mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 940 download events in this period)
+Total number of records downloaded: 134
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 2
+	Country: Bangladesh ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-07 ; Times: 4
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "genus:Theristicus institutioncode:ROM" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 4
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "vntype:specimen genus:grus" ; Times: 1
+
+
+End of report.
