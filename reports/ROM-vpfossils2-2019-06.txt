@@ -1,0 +1,174 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 1529
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 92
+	Country: Netherlands ; Times: 2
+	Country: Germany ; Times: 3
+	Country: New Zealand ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 4
+	Date: 2019-06-21 ; Times: 4
+	Date: 2019-06-24 ; Times: 3
+	Date: 2019-06-25 ; Times: 7
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-09 ; Times: 3
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-02 ; Times: 3
+	Date: 2019-06-04 ; Times: 4
+	Date: 2019-06-05 ; Times: 15
+	Date: 2019-06-11 ; Times: 40
+	Date: 2019-06-10 ; Times: 17
+	Date: 2019-06-13 ; Times: 5
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-30 ; Times: 15
+	Date: 2019-06-27 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:26359 institutioncode:ROM" ; Times: 1
+	Query: "genus:Saurornitholestes specificepithet:langstoni" ; Times: 1
+	Query: "genus:Boremys specificepithet:pulchra" ; Times: 1
+	Query: "Carcharhinus perezii" ; Times: 2
+	Query: "catalognumber:55633" ; Times: 1
+	Query: "genus:Phalacrocorax skull" ; Times: 1
+	Query: "institutioncode:ROM 13751" ; Times: 1
+	Query: "institutioncode:ROM 65291" ; Times: 1
+	Query: "genus:Adocus" ; Times: 1
+	Query: "genus:Allognathosuchus" ; Times: 1
+	Query: "genus:Coelophysis" ; Times: 2
+	Query: "genus:Sphaerotholus" ; Times: 1
+	Query: "catalognumber:76863" ; Times: 1
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 1
+	Query: "genus:Rhamphorhynchus" ; Times: 1
+	Query: "Negaprion brevirostris" ; Times: 2
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 2
+	Query: "catalognumber:26348 institutioncode:ROM" ; Times: 4
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "genus:Megalops specificepithet:atlanticus" ; Times: 1
+	Query: "catalognumber:26361 institutioncode:ROM" ; Times: 1
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 1
+	Query: "genus:Dendrocygna specificepithet:autumnalis" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus country:&#34;canada&#34;" ; Times: 1
+	Query: "genus:Gopherus specificepithet:polyphemus" ; Times: 1
+	Query: "genus:Hemipristis specificepithet:serra" ; Times: 1
+	Query: "genus:Steneosaurus specificepithet:bollensis" ; Times: 1
+	Query: "41814" ; Times: 1
+	Query: "genus:crotalus institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:26357 institutioncode:ROM" ; Times: 1
+	Query: "genus:Lepisosteus specificepithet:platyrhincus" ; Times: 1
+	Query: "institutioncode:ROM 13751?" ; Times: 1
+	Query: "genus:Pristis specificepithet:pectinata" ; Times: 1
+	Query: "genus:Dicynodon" ; Times: 1
+	Query: "catalognumber:71895" ; Times: 1
+	Query: "genus:Rhinoclemmys specificepithet:melanosterna" ; Times: 1
+	Query: "43054" ; Times: 1
+	Query: "72010" ; Times: 1
+	Query: "genus:Stegoceras specificepithet:validum" ; Times: 2
+	Query: "Dodo" ; Times: 1
+	Query: "genus:Barbus specificepithet:bynni" ; Times: 1
+	Query: "genus:Bagre specificepithet:marinus" ; Times: 1
+	Query: "catalognumber:64885 institutioncode:ROM" ; Times: 1
+	Query: "53533" ; Times: 1
+	Query: "58088" ; Times: 1
+	Query: "genus:Dromaeosaurus specificepithet:albertensis" ; Times: 1
+	Query: "catalognumber:26356 institutioncode:ROM" ; Times: 3
+	Query: "Pristis pectinata" ; Times: 2
+	Query: "catalognumber:26362 institutioncode:ROM" ; Times: 1
+	Query: "genus:Simosuchus specificepithet:clarki" ; Times: 1
+	Query: "genus:Pseudemys specificepithet:concinna" ; Times: 2
+	Query: "ROM-31158" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "catalognumber:19053 institutioncode:ROM" ; Times: 2
+	Query: "genus:Platecarpus specificepithet:coryphaeus " ; Times: 1
+	Query: "genus:undet." ; Times: 1
+	Query: "genus:Dasyatis specificepithet:guttata" ; Times: 2
+	Query: "genus:Chelonia specificepithet:mydas" ; Times: 1
+	Query: "genus:Limnopus" ; Times: 1
+	Query: "genus:Phalacrocorax specificepithet:wetmorei" ; Times: 1
+	Query: "axis deer" ; Times: 2
+	Query: "Carcharhinus isodon" ; Times: 2
+	Query: "genus:Deirochelys specificepithet:reticularia" ; Times: 1
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "genus:Toxochelys specificepithet:latiremis" ; Times: 1
+	Query: "catalognumber:43108 institutioncode:ROM" ; Times: 2
+	Query: "genus:Gadus specificepithet:morhua" ; Times: 1
+	Query: "gorgonopsia" ; Times: 2
+	Query: "genus:Titanis specificepithet:walleri" ; Times: 2
+	Query: "40509" ; Times: 1
+	Query: "genus:Vultur specificepithet:gryphus" ; Times: 1
+	Query: "genus:Ardea specificepithet:alba" ; Times: 1
+	Query: "catalognumber:70000" ; Times: 1
+	Query: "42001" ; Times: 1
+	Query: "42086" ; Times: 1
+	Query: "catalognumber:38834" ; Times: 1
+	Query: "genus:Tiktaalik specificepithet:roseae" ; Times: 2
+	Query: "donkey" ; Times: 1
+	Query: "genus:Oncorhynchus specificepithet:nerka" ; Times: 1
+	Query: "Negaprion brevirostris mappable:1" ; Times: 3
+	Query: "ciconia ciconia" ; Times: 3
+	Query: "catalognumber:26364 institutioncode:ROM" ; Times: 1
+	Query: "57804" ; Times: 1
+	Query: "vntype:specimen family:Tyrannidae class:Aves institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:26358 institutioncode:ROM" ; Times: 1
+	Query: "genus:Massospondylus specificepithet:carinatus" ; Times: 1
+	Query: "vntype:specimen genus:Caiman preparations:skull" ; Times: 1
+	Query: "genus:Trachemys specificepithet:inflata" ; Times: 2
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "Ardea cocoi" ; Times: 1
+	Query: "catalognumber:26360 institutioncode:ROM" ; Times: 1
+	Query: "genus:Thrinaxodon specificepithet:liorhinus" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 2
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 2
+	Query: "Gorgonopidae" ; Times: 1
+	Query: "genus:Xiphactinus specificepithet:audax" ; Times: 1
+	Query: "Zapteryx exasperata" ; Times: 2
+	Query: "catalognumber:26363 institutioncode:ROM" ; Times: 1
+	Query: "71119" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1182 download events in this period)
+Total number of records downloaded: 195
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-25 ; Times: 1
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-01 ; Times: 1
+	Date: 2019-06-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "moose" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "vntype:specimen class:Reptilia hastypestatus:1" ; Times: 1
+	Query: "cathartes aura" ; Times: 2
+	Query: "vntype:specimen genus:Caiman preparations:skull" ; Times: 1
+	Query: "Farancia" ; Times: 1
+
+
+End of report.
