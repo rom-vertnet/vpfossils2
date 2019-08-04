@@ -1,0 +1,132 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 1235
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Madagascar ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 35
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 3
+	Date: 2019-07-08 ; Times: 16
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-24 ; Times: 5
+	Date: 2019-07-01 ; Times: 3
+	Date: 2019-07-05 ; Times: 4
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-02 ; Times: 5
+	Date: 2019-07-16 ; Times: 2
+	Date: 2019-07-07 ; Times: 2
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-10 ; Times: 5
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-23 ; Times: 4
+	Date: 2019-07-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Dollard stateprovince:&#34;Saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Limnopus" ; Times: 1
+	Query: "catalognumber:38854 institutioncode:ROM" ; Times: 1
+	Query: "Vultur gryphus (Peru)" ; Times: 2
+	Query: "59041" ; Times: 1
+	Query: "Osteostraci" ; Times: 2
+	Query: "genus:Dicynodon" ; Times: 1
+	Query: "Mycteria americana mappable:1" ; Times: 1
+	Query: "77592" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "genus:Adocus" ; Times: 1
+	Query: "genus:Allognathosuchus" ; Times: 1
+	Query: "sauropod institutioncode:ROM" ; Times: 1
+	Query: "genus:Sphaerotholus" ; Times: 1
+	Query: "genus:Tyrannosaurus isfossil:1" ; Times: 2
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "genus:Trachemys specificepithet:inflata" ; Times: 1
+	Query: "specificepithet:temminckii family:chelydridae" ; Times: 1
+	Query: "mycteria" ; Times: 1
+	Query: "genus:Melanopareia institutioncode:ROM" ; Times: 3
+	Query: "catalognumber:75901" ; Times: 1
+	Query: "order:galliformes institutioncode:ROM basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:guttata" ; Times: 1
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 1
+	Query: "catalognumber:43108 institutioncode:ROM" ; Times: 2
+	Query: "genus:Rhamphorhynchus" ; Times: 1
+	Query: "specificepithet:Virginianus genus:Bubo institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "Protopterus" ; Times: 3
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "caiman;skull" ; Times: 1
+	Query: "fossils" ; Times: 1
+	Query: "69829" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "catalognumber:64954" ; Times: 1
+	Query: "specificepithet:serpentina genus:Chelydra stateprovince:&#34;Florida&#34; country:&#34;USA&#34;" ; Times: 2
+	Query: "genus:Pseudemys specificepithet:concinna" ; Times: 1
+	Query: "genus:Egretta specificepithet:thula" ; Times: 1
+	Query: "Pteraspis" ; Times: 2
+	Query: "catalognumber:43045 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:19053 institutioncode:ROM" ; Times: 3
+	Query: "class:reptilia county:&#34;charlotte&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "phalacrocorax bougainvillii" ; Times: 1
+	Query: "catalognumber:71463 institutioncode:ROM" ; Times: 2
+	Query: "genus:Tachybaptus specificepithet:dominicus" ; Times: 1
+	Query: "genus:undet." ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 985 download events in this period)
+Total number of records downloaded: 202
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 2
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Porzana carolina" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "Macroclemys" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "class:reptilia hastypestatus:1" ; Times: 1
+
+
+End of report.
