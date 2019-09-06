@@ -1,0 +1,125 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 1158
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 35
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Peru ; Times: 21
+	Country: Argentina ; Times: 3
+	Country: Venezuela ; Times: 4
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 4
+	Date: 2019-08-06 ; Times: 3
+	Date: 2019-08-18 ; Times: 1
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-16 ; Times: 2
+	Date: 2019-08-15 ; Times: 3
+	Date: 2019-08-14 ; Times: 21
+	Date: 2019-08-04 ; Times: 5
+	Date: 2019-08-05 ; Times: 6
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-07 ; Times: 3
+	Date: 2019-08-08 ; Times: 4
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-25 ; Times: 4
+	Date: 2019-08-22 ; Times: 9
+	Date: 2019-08-23 ; Times: 3
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Terrepene" ; Times: 1
+	Query: "Icterus mesomelas" ; Times: 1
+	Query: "stateprovince:&#34;Manitoba&#34; institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "ROM 13500" ; Times: 2
+	Query: "Aepyornis maximus" ; Times: 1
+	Query: "Mycteria americana" ; Times: 3
+	Query: "Geranoaetus melanoleucus" ; Times: 1
+	Query: "Platalea leucorodia" ; Times: 1
+	Query: "Negaprion brevirostris" ; Times: 2
+	Query: "DASYATIS guttatA" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 7
+	Query: "(seymouria)" ; Times: 1
+	Query: "catalognumber:66815" ; Times: 1
+	Query: "javelina" ; Times: 2
+	Query: "Egretta thula" ; Times: 1
+	Query: "Melanopareia elegans" ; Times: 1
+	Query: "Tetrax tetrax" ; Times: 1
+	Query: "69631" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 2
+	Query: "Carcharhinus isodon" ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "seymouria isfossil:1" ; Times: 1
+	Query: "Thamnophilus bernardi" ; Times: 1
+	Query: "67129" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 3
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "Ardea cocoi" ; Times: 1
+	Query: "71277" ; Times: 1
+	Query: "numenius borealis" ; Times: 2
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "seymouria" ; Times: 4
+	Query: "Forpus coelestis" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Phalacrocorax bougainvillii" ; Times: 1
+	Query: "fossils" ; Times: 1
+	Query: "Mimus longicaudatus" ; Times: 1
+	Query: "family:Bregmacerotidae hastypestatus:1" ; Times: 1
+	Query: "specificepithet:platymarginata genus:Trachemys class:Reptilia" ; Times: 2
+	Query: "Columbina cruziana" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "Rhynchospiza stolzmanni" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "Ardea alba" ; Times: 1
+	Query: "teratornis" ; Times: 1
+	Query: "Javelina" ; Times: 1
+	Query: "phalacrocorax bougainvillii" ; Times: 1
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "Crypturellus transfasciatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1034 download events in this period)
+Total number of records downloaded: 21
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Fiji ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "vntype:specimen family:Rallidae hastissue:1" ; Times: 1
+	Query: "family:Accipitridae" ; Times: 1
+	Query: "natricidae" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "seymouria isfossil:1" ; Times: 1
+	Query: "seymouria" ; Times: 1
+
+
+End of report.
