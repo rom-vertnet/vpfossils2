@@ -1,0 +1,117 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 274
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 41
+	Country: Italy ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 3
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 4
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-28 ; Times: 4
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-09 ; Times: 4
+	Date: 2019-09-08 ; Times: 3
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-01 ; Times: 1
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Sharks" ; Times: 2
+	Query: "vntype:specimen genus:siren preparations:skull" ; Times: 1
+	Query: "catalognumber:69915 institutioncode:ROM" ; Times: 1
+	Query: "hastissue:1 tachybaptus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "vntype:specimen genus:siren (skull)" ; Times: 1
+	Query: "ROM 41005" ; Times: 1
+	Query: "actinopterygii vntype:specimen institutioncode:ROM" ; Times: 1
+	Query: "ROM 17499" ; Times: 2
+	Query: "raphus" ; Times: 2
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "Odontaspis" ; Times: 1
+	Query: "specificepithet:temminckii genus:Macrochelys" ; Times: 1
+	Query: "diplodocus" ; Times: 1
+	Query: "genus:Trachemys country:&#34;USA&#34;" ; Times: 2
+	Query: "locality:Alberta institutioncode:ROM" ; Times: 1
+	Query: "genus:Melanopareia institutioncode:ROM" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "67424" ; Times: 1
+	Query: "43180" ; Times: 1
+	Query: "catalognumber:25620 institutioncode:ROM" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 10
+	Query: "Protopterus" ; Times: 2
+	Query: "52606" ; Times: 1
+	Query: "deirochelys reticularia" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber country:&#34;Canada&#34;" ; Times: 1
+	Query: "archaeopteryx" ; Times: 1
+	Query: "specificepithet:transfasciatus genus:Crypturellus class:Aves" ; Times: 1
+	Query: "genus:Triceratops isfossil:1" ; Times: 2
+	Query: "dodo" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "Pinguinus" ; Times: 1
+	Query: "collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:Barbouri genus:Graptemys stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "67501" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1073 download events in this period)
+Total number of records downloaded: 274
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 8
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-30 ; Times: 3
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "hemiophrys (Bufo OR Anaxyrus)" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+	Query: "Reptilia Nebraska" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 2
+	Query: "family:cracidae" ; Times: 1
+
+
+End of report.
