@@ -1,0 +1,144 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 1305
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 3
+	Country: United States ; Times: 17
+	Country: United Kingdom ; Times: 90
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 2
+	Date: 2020-04-07 ; Times: 32
+	Date: 2020-04-23 ; Times: 2
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-03 ; Times: 13
+	Date: 2020-04-17 ; Times: 3
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 9
+	Date: 2020-04-04 ; Times: 5
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-20 ; Times: 4
+	Date: 2020-04-21 ; Times: 21
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-08 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "alligator mississippiensis florida" ; Times: 1
+	Query: "Coelophysis bauri" ; Times: 2
+	Query: "Anser fabalis" ; Times: 5
+	Query: "Dinornis giganteus" ; Times: 3
+	Query: "ROM 18117" ; Times: 1
+	Query: "Platalea leucorodia" ; Times: 1
+	Query: "61477" ; Times: 1
+	Query: "Gadus morhua" ; Times: 5
+	Query: "catalognumber:44169 institutioncode:ROM" ; Times: 1
+	Query: "Pogonias cromis" ; Times: 5
+	Query: "Oncorhynchus nerka" ; Times: 8
+	Query: "Tyrannosaurus rex" ; Times: 1
+	Query: "catalognumber:44167 institutioncode:ROM" ; Times: 1
+	Query: "albertosaurus" ; Times: 1
+	Query: "specificepithet:polyosoma genus:Buteo country:&#34;Peru&#34;" ; Times: 1
+	Query: "Cairina moschata" ; Times: 8
+	Query: "class:Aves catalognumber:61477" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "Buteo polyosoma" ; Times: 5
+	Query: "ROM 18141" ; Times: 1
+	Query: "ROM 18230" ; Times: 1
+	Query: "ROM 18128" ; Times: 1
+	Query: "Anas americana" ; Times: 11
+	Query: "pseudemys floridana" ; Times: 1
+	Query: "catalognumber:34320 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:dominica genus:Pluvialis country:&#34;Peru&#34;" ; Times: 1
+	Query: "class:Gastropoda institutioncode:ROM basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "56798" ; Times: 1
+	Query: "Aythya ferina" ; Times: 11
+	Query: "Phalacrocorax bougainvillii" ; Times: 4
+	Query: "Macrochelys" ; Times: 1
+	Query: "Manis temminckii" ; Times: 4
+	Query: "Ciconia ciconia" ; Times: 6
+	Query: "Kinosternon steindachneri" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "ROM 42418" ; Times: 1
+	Query: "01474" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "recordedby:w. w. price" ; Times: 1
+	Query: "Ardea alba" ; Times: 9
+	Query: "ROM 18242" ; Times: 1
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "genus:Struthio institutioncode:ROM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1171 download events in this period)
+Total number of records downloaded: 1814
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Netherlands ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 9
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-25 ; Times: 2
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 3
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 1
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-28 ; Times: 2
+	Date: 2020-04-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 8
+	Query: "vultur gryphus" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "emydoidea" ; Times: 3
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;California&#34; country:&#34;U.S.A&#34; hastypestatus:1" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "class:Gastropoda" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 2
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Kinosternon steindachneri" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "class:Aves hastissue:1" ; Times: 1
+
+
+End of report.
