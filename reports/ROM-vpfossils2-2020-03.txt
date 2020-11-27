@@ -1,0 +1,132 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 437
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 7
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 40
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 7
+	Date: 2020-03-10 ; Times: 6
+	Date: 2020-03-18 ; Times: 2
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-02 ; Times: 2
+	Date: 2020-03-27 ; Times: 9
+	Date: 2020-03-31 ; Times: 8
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 3
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-15 ; Times: 2
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-03 ; Times: 3
+	Date: 2020-03-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "eothyris" ; Times: 1
+	Query: "Cathartes aura institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:tricolor genus:Phalaropus country:&#34;Peru&#34;" ; Times: 2
+	Query: "66066" ; Times: 1
+	Query: "(76777)" ; Times: 2
+	Query: "Egretta thula institutioncode:ROM" ; Times: 1
+	Query: "Velafrons coahuilensis" ; Times: 2
+	Query: "Athene cunicularia institutioncode:ROM" ; Times: 1
+	Query: "76842" ; Times: 1
+	Query: "specificepithet:peregrinus genus:Falco country:&#34;Peru&#34;" ; Times: 1
+	Query: "76847" ; Times: 1
+	Query: "ROM 68554" ; Times: 1
+	Query: "specificepithet:semipalmatus genus:Charadrius country:&#34;Peru&#34;" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "ROM 71227" ; Times: 1
+	Query: "(56781)" ; Times: 1
+	Query: "specificepithet:bonariensis genus:Molothrus country:&#34;Peru&#34;" ; Times: 2
+	Query: "13715" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto country:&#34;Peru&#34;" ; Times: 1
+	Query: "Teratornis" ; Times: 2
+	Query: "Grus canadensis institutioncode:ROM" ; Times: 1
+	Query: "ROM 68581" ; Times: 1
+	Query: "ROM 68582" ; Times: 1
+	Query: "genus:Alligator country:&#34;USA&#34;" ; Times: 1
+	Query: "76294" ; Times: 1
+	Query: "71221" ; Times: 1
+	Query: "71223" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "56769" ; Times: 1
+	Query: "Archaeopteryx lithographica isfossil:1" ; Times: 1
+	Query: "ROM 44298" ; Times: 1
+	Query: "66359" ; Times: 1
+	Query: "Pelecanus erythrorhynchos institutioncode:ROM" ; Times: 1
+	Query: "class:Reptilia county:&#34;Carter&#34; stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "specificepithet:vociferus genus:Charadrius country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Ophiacodon" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "77071" ; Times: 1
+	Query: "class:Reptilia county:&#34;Fallon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "ROM 77522" ; Times: 1
+	Query: "class:Reptilia county:&#34;York&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Mycteria americana institutioncode:ROM" ; Times: 1
+	Query: "52022" ; Times: 1
+	Query: "67214" ; Times: 1
+	Query: "67524" ; Times: 1
+	Query: "ROM 70989" ; Times: 1
+	Query: "Archaeopteryx lithographica" ; Times: 1
+	Query: "(77094)" ; Times: 1
+	Query: "Ardea alba institutioncode:ROM" ; Times: 1
+	Query: "macrochelys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 853 download events in this period)
+Total number of records downloaded: 1213
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "VULTUR GRYPHUS" ; Times: 1
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus" ; Times: 1
+	Query: "class:Aves continent:Africa institutioncode:ROM" ; Times: 1
+	Query: "genus:Amphiuma" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "genus:Alligator country:&#34;USA&#34;" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+	Query: "specificepithet:getulus genus:Lampropeltis" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+
+
+End of report.
