@@ -1,0 +1,136 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 396
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Singapore ; Times: 8
+	Country: United States ; Times: 52
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 8
+	Date: 2019-11-16 ; Times: 7
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 2
+	Date: 2019-11-08 ; Times: 8
+	Date: 2019-11-09 ; Times: 4
+	Date: 2019-11-06 ; Times: 6
+	Date: 2019-11-07 ; Times: 5
+	Date: 2019-11-04 ; Times: 4
+	Date: 2019-11-30 ; Times: 2
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-10 ; Times: 3
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-15 ; Times: 16
+	Date: 2019-11-14 ; Times: 4
+	Date: 2019-11-26 ; Times: 8
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-12 ; Times: 2
+	Date: 2019-11-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:71073 institutioncode:ROM" ; Times: 1
+	Query: "genus:Rhynchospiza class:Aves institutioncode:ROM" ; Times: 1
+	Query: "William class:Aves institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "52292" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "58676" ; Times: 1
+	Query: "specificepithet:nelsoni order:testudines" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "(manitoba) institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "53648" ; Times: 1
+	Query: "carcharodontosaurus" ; Times: 1
+	Query: "53626" ; Times: 1
+	Query: "stateprovince:&#34;manitoba&#34; institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "55422" ; Times: 1
+	Query: "43136" ; Times: 1
+	Query: "Epinephelus itajara" ; Times: 1
+	Query: "67280" ; Times: 1
+	Query: "66334" ; Times: 1
+	Query: "(platecarpus) institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "ROM 5096" ; Times: 2
+	Query: "18819" ; Times: 1
+	Query: "catalognumber:16723 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:flavipes genus:Tringa class:Aves institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "Mycteria americana 2018" ; Times: 4
+	Query: "(clidastes) institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "genus:Melanopareia class:Aves institutioncode:ROM" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 10
+	Query: "raphus cucullatus" ; Times: 5
+	Query: "ctenochasma" ; Times: 1
+	Query: "genus:Crypturellus institutioncode:ROM" ; Times: 1
+	Query: "AGC 1279" ; Times: 2
+	Query: "54548" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "genus:hesperornis institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "catalognumber:42421 institutioncode:ROM" ; Times: 1
+	Query: "Mycteria americana 1979" ; Times: 4
+	Query: "hastypestatus:1 hastissue:1 isfossil:1" ; Times: 2
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "64191" ; Times: 1
+	Query: "genus:Cairina class:Aves institutioncode:ROM" ; Times: 1
+	Query: "61702" ; Times: 1
+	Query: "Mycteria americana 1973" ; Times: 4
+	Query: "gbifdatasetid:210babc8-5723-41ac-bb13-c834590dbb15" ; Times: 1
+	Query: "catalognumber:54585 institutioncode:ROM" ; Times: 1
+	Query: "genus:Odontaspis" ; Times: 1
+	Query: "Mycteria americana 2012" ; Times: 4
+	Query: "(mosasaur) institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "(mosasaurus) institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "18906" ; Times: 1
+	Query: "catalognumber:43768 institutioncode:ROM" ; Times: 1
+	Query: "Stygiochelys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1367 download events in this period)
+Total number of records downloaded: 182
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-06 ; Times: 4
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anseriformes" ; Times: 1
+	Query: "vntype:specimen locality:Spitzbergen" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "family:gekkonidae hastypestatus:1" ; Times: 2
+	Query: "Stygiochelys" ; Times: 1
+	Query: "order:Accipitriformes" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "family:testudinidae country:&#34;ecuador&#34;" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 2
+
+
+End of report.
