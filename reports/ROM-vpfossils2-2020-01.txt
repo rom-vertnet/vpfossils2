@@ -1,0 +1,110 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 152
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: United Kingdom ; Times: 9
+	Country: Netherlands ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 4
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-05 ; Times: 2
+	Date: 2020-01-28 ; Times: 5
+	Date: 2020-01-15 ; Times: 9
+	Date: 2020-01-23 ; Times: 3
+	Date: 2020-01-22 ; Times: 5
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves year &gt;= 1800 year &lt;= 1890 institutioncode:ROM hastypestatus:1" ; Times: 1
+	Query: "Oligokyphus" ; Times: 2
+	Query: "catalognumber:33656 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:immer genus:Gavia institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "year &gt;= 1800 year &lt;= 1850 institutioncode:ROM hastypestatus:1" ; Times: 1
+	Query: "picta Chrysemys" ; Times: 2
+	Query: "O.58135" ; Times: 1
+	Query: "Negaprion brevirostris mappable:1" ; Times: 1
+	Query: "year &gt;= 1700 year &lt;= 1850 institutioncode:ROM hastypestatus:1" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "O.72269" ; Times: 1
+	Query: "No. O.58135" ; Times: 1
+	Query: "namaycush Salvelinus" ; Times: 1
+	Query: "Ciconia maltha" ; Times: 2
+	Query: "class:Aves year &gt;= 1700 year &lt;= 1860 institutioncode:ROM hastypestatus:1" ; Times: 1
+	Query: "Leptosomus skeleton" ; Times: 6
+	Query: "Mycteria americana" ; Times: 1
+	Query: "class:Aves year &gt;= 1700 year &lt;= 1870 institutioncode:ROM hastypestatus:1" ; Times: 1
+	Query: "numenius borealis" ; Times: 1
+	Query: "15397 institutioncode:ROM aves" ; Times: 1
+	Query: "specificepithet:americana genus:grus institutioncode:ROM" ; Times: 1
+	Query: "temminckii (macroclemys OR macrochelys) AND (NOT Chelydra )" ; Times: 1
+	Query: "catalognumber:18769 institutioncode:ROM family:Columbidae" ; Times: 2
+	Query: "52543" ; Times: 1
+	Query: "specificepithet:hemiophrys genus:Bufo" ; Times: 1
+	Query: "Flemingii" ; Times: 1
+	Query: "genus:Gavia institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "rom 3275" ; Times: 2
+	Query: "genus:Bubo institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "specificepithet:constrictor genus:coluber institutioncode:ROM" ; Times: 1
+	Query: "Aetobatus narinari mappable:1" ; Times: 3
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "macrochelys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1584 download events in this period)
+Total number of records downloaded: 537
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-28 ; Times: 2
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "locality:Corralito institutioncode:ROM" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "specificepithet:constrictor genus:coluber institutioncode:ROM" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "Oligokyphus" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "rainier" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "Burhinus superciliaris" ; Times: 1
+
+
+End of report.
