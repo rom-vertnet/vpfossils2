@@ -1,0 +1,123 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 437
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 13
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 10
+	Country: Austria ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-08 ; Times: 7
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-01 ; Times: 1
+	Date: 2020-10-13 ; Times: 20
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-04 ; Times: 2
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-20 ; Times: 8
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Anser fabalis" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "scientificname:Gulo gulo" ; Times: 1
+	Query: "mappable:1 scientificname:Gopherus polyphemus" ; Times: 2
+	Query: "genus:Phalaropus institutioncode:ROM hastissue:1" ; Times: 4
+	Query: "41813" ; Times: 2
+	Query: "Gadus morhua" ; Times: 1
+	Query: "43096" ; Times: 1
+	Query: "Negaprion brevirostris mappable:1" ; Times: 1
+	Query: "sharks" ; Times: 1
+	Query: "specificepithet:superciliaris genus:Burhinus hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Negaprion brevirostris" ; Times: 2
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "gopherus polyphemus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Rhinoclemmys melanosterna" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "ROM 30246" ; Times: 1
+	Query: "Buteo polyosoma" ; Times: 1
+	Query: "locality:surprise bluff institutioncode:ROM" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 8
+	Query: "mappable:1 scientificname:Aetobatus narinari" ; Times: 4
+	Query: "rom 43101" ; Times: 1
+	Query: "Iguanodon bernissartensis" ; Times: 1
+	Query: "62511" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 1
+	Query: "Phalacrocorax bougainvillii" ; Times: 1
+	Query: "65634" ; Times: 1
+	Query: "scientificname:Penelope purpurascens" ; Times: 1
+	Query: "specificepithet:tricolor genus:phalaropus institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "scientificname:Tadorna ferruginea" ; Times: 1
+	Query: "family:Struthionidae class:Aves preparations:Egg" ; Times: 1
+	Query: "scientificname:Isurus oxyrinchus" ; Times: 1
+	Query: "surprise bluff" ; Times: 1
+	Query: "Aetobatus narinari mappable:1" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1521 download events in this period)
+Total number of records downloaded: 99
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-31 ; Times: 2
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "family:Struthionidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:spinosa genus:Jacana" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "family:Alcidae year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "family:Triglidae" ; Times: 1
+
+
+End of report.
