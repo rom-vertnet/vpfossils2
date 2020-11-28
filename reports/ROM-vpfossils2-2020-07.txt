@@ -1,0 +1,117 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 323
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Peru ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 5
+	Country: United States ; Times: 24
+	Country: Ireland ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-02 ; Times: 4
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-29 ; Times: 1
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-05 ; Times: 3
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 3
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-20 ; Times: 11
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "08798" ; Times: 1
+	Query: "Tyrannosaurus Rex" ; Times: 1
+	Query: "ROM 34089" ; Times: 2
+	Query: "genus:coluber hastypestatus:1" ; Times: 1
+	Query: "ROM 17496" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "ROM 34090" ; Times: 4
+	Query: "Negaprion brevirostris mappable:1" ; Times: 2
+	Query: "hastypestatus:1 Crypturellus transfasciatus" ; Times: 1
+	Query: "herrerasaurus" ; Times: 1
+	Query: "hastypestatus:1 Crypturellus" ; Times: 2
+	Query: "42543" ; Times: 1
+	Query: "ROM 29910" ; Times: 2
+	Query: "52151" ; Times: 1
+	Query: "Aetobatus narinari mappable:1" ; Times: 1
+	Query: "70414" ; Times: 1
+	Query: "ROM 37752" ; Times: 2
+	Query: "catalognumber:38771 institutioncode:ROM" ; Times: 1
+	Query: "ROM 31158" ; Times: 1
+	Query: "cyprindae" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "ROM 34109" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 2
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "genus:Champsosaurus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "class:Reptilia continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "class:Reptilia continent:North America AND (NOT PBDB) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Crypturellus transfasciatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 940 download events in this period)
+Total number of records downloaded: 620
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 5
+	Country: Peru ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "elapidae" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Natricidae" ; Times: 1
+	Query: "class:Amphibia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "class:Amphibia bakeri" ; Times: 1
+	Query: "genus:Champsosaurus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "vultur" ; Times: 1
+
+
+End of report.
