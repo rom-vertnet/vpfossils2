@@ -1,0 +1,69 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 165
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 8
+	Country: New Zealand ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 4
+	Date: 2020-06-11 ; Times: 3
+	Date: 2020-06-10 ; Times: 2
+	Date: 2020-06-12 ; Times: 1
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "recordedby: william wood" ; Times: 1
+	Query: "Anas americana" ; Times: 5
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "Cairina moschata" ; Times: 3
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "procolophon" ; Times: 1
+	Query: "vntype:specimen catalognumber:34295 institutioncode:ROM" ; Times: 1
+	Query: "Dimetrodon limbatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 474 download events in this period)
+Total number of records downloaded: 137
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-10 ; Times: 4
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:purpurascens order:galliformes" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "salmoninae" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+
+
+End of report.
