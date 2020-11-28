@@ -1,0 +1,129 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 286
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 15
+	Country: Israel ; Times: 1
+	Country: Peru ; Times: 8
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Sri Lanka ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-07 ; Times: 3
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-01 ; Times: 2
+	Date: 2020-08-10 ; Times: 4
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-04 ; Times: 9
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-22 ; Times: 2
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-21 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Chelonia mydas" ; Times: 1
+	Query: "Emydoidea blandingi" ; Times: 1
+	Query: "Gadus morhua" ; Times: 2
+	Query: "mappable:1 scientificname:Macrochelys temminckii" ; Times: 1
+	Query: "75459" ; Times: 1
+	Query: "genus:Chelonia hastypestatus:1" ; Times: 8
+	Query: "genus:Edmontonia" ; Times: 2
+	Query: "velociraptor" ; Times: 1
+	Query: "catalognumber:68551" ; Times: 1
+	Query: "70298" ; Times: 1
+	Query: "mappable:1 scientificname:Trachemys scripta scripta" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "astragalus" ; Times: 1
+	Query: "Pectinodon" ; Times: 1
+	Query: "44804" ; Times: 1
+	Query: "order:Testudines institutioncode:ROM" ; Times: 1
+	Query: "66815" ; Times: 1
+	Query: "ROM 54534" ; Times: 2
+	Query: "65686" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Phalacrocorax bougainvillii" ; Times: 1
+	Query: "Macrochelys" ; Times: 2
+	Query: "Vultur gryphus vntype:specimen (Perú)" ; Times: 1
+	Query: "71370" ; Times: 2
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "mappable:1 scientificname:Apalone ferox" ; Times: 1
+	Query: "17163 PERÚ" ; Times: 1
+	Query: "R 52046" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "mappable:1 scientificname:Pseudemys concinna" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "69660" ; Times: 1
+	Query: "71376" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 756 download events in this period)
+Total number of records downloaded: 10172
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Sri Lanka ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-31 ; Times: 2
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "Vultur gryphus vntype:specimen (Perú)" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 2
+	Query: "order:Testudines institutioncode:ROM" ; Times: 1
+	Query: "Leidyosuchus" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "genus:Edmontonia" ; Times: 1
+	Query: "Pectinodon" ; Times: 1
+	Query: "crotalus horridus" ; Times: 2
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
