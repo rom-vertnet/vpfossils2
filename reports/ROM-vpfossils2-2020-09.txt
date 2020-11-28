@@ -1,0 +1,106 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 349
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 17
+	Country: United States ; Times: 7
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 10
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 3
+	Date: 2020-09-16 ; Times: 5
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-25 ; Times: 9
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-18 ; Times: 3
+	Date: 2020-09-19 ; Times: 4
+	Date: 2020-09-09 ; Times: 3
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-01 ; Times: 8
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "76541" ; Times: 1
+	Query: "catalognumber:30505 institutioncode:ROM" ; Times: 4
+	Query: "Phorusrhacidae" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Florida&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "genus:Geronogyps institutioncode:ROM" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "catalognumber:31954 institutioncode:ROM" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "genus:Aspideretes" ; Times: 1
+	Query: "mappable:1 scientificname:Carcharodon carcharias" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "catalognumber:30507 institutioncode:ROM" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "Sturnella bellicosa hastissue:1" ; Times: 1
+	Query: "specificepithet:howardae genus:Gymnogyps institutioncode:ROM" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "catalognumber:30712 institutioncode:ROM" ; Times: 1
+	Query: "scientificname:Vultur gryphus" ; Times: 9
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "ROM 17542" ; Times: 1
+	Query: "Syngnathus acus" ; Times: 1
+	Query: "ROM 15276" ; Times: 2
+	Query: "mappable:1 scientificname:Apalone ferox" ; Times: 1
+	Query: "65175" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "50030" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis stateprovince:&#34;Florida&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Falco femoralis hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 976 download events in this period)
+Total number of records downloaded: 59
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Ghana ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Australia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-24 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "emydoidea" ; Times: 1
+	Query: "order:Struthioniformes class:aves preparations:Egg" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "order:Struthioniformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Galliformes hastissue:1" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+
+
+End of report.
