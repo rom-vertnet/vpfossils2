@@ -1,0 +1,115 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 166
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: United Kingdom ; Times: 6
+	Country: Sweden ; Times: 2
+	Country: Vietnam ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 1
+	Date: 2020-11-21 ; Times: 1
+	Date: 2020-11-05 ; Times: 2
+	Date: 2020-11-24 ; Times: 10
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-26 ; Times: 3
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-02 ; Times: 6
+	Date: 2020-11-16 ; Times: 5
+	Date: 2020-11-09 ; Times: 2
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-01 ; Times: 2
+	Date: 2020-11-27 ; Times: 3
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Oligokyphus" ; Times: 2
+	Query: "ROM 68438" ; Times: 1
+	Query: "Eryops" ; Times: 2
+	Query: "scientificname:Gulo gulo" ; Times: 2
+	Query: "ROM 42519" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "ROM 46962" ; Times: 1
+	Query: "sharks" ; Times: 1
+	Query: "ROM 30263" ; Times: 1
+	Query: "Seymouria" ; Times: 2
+	Query: "leptolepides" ; Times: 1
+	Query: "ROM 30282" ; Times: 1
+	Query: "Ichthyostega" ; Times: 1
+	Query: "53616" ; Times: 1
+	Query: "18186" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "ROM 41974" ; Times: 1
+	Query: "numenius borealis" ; Times: 1
+	Query: "ROM 68469" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 3
+	Query: "catalognumber:32033 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:icterus genus:icterus hastissue:1" ; Times: 2
+	Query: "Eryops Megacephalus" ; Times: 4
+	Query: "Humbertia" ; Times: 1
+	Query: "01393" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "genus:raphus" ; Times: 3
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "genus:phalaropus institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "ROM 64983" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 842 download events in this period)
+Total number of records downloaded: 476
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 1
+	Date: 2020-11-24 ; Times: 2
+	Date: 2020-11-25 ; Times: 1
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-09 ; Times: 1
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-03 ; Times: 3
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "specificepithet:icterus genus:icterus hastissue:1" ; Times: 1
+	Query: "cope" ; Times: 1
+	Query: "vntype:specimen specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "Anaxyrus americanus americanus" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:clangula" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+
+
+End of report.
