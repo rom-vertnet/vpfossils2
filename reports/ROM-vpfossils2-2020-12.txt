@@ -1,0 +1,137 @@
+Report for Institution Code ROM, Resource vpfossils2
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 339
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 8
+	Country: Finland ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 22
+	Country: United States ; Times: 17
+	Country: Vietnam ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-30 ; Times: 5
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-22 ; Times: 3
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-06 ; Times: 3
+	Date: 2020-12-18 ; Times: 4
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-01 ; Times: 2
+	Date: 2020-12-09 ; Times: 4
+	Date: 2020-12-08 ; Times: 8
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-11 ; Times: 6
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-04 ; Times: 9
+	Date: 2020-12-14 ; Times: 4
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:32387 institutioncode:ROM" ; Times: 1
+	Query: "Anser fabalis" ; Times: 1
+	Query: "Dinornis giganteus" ; Times: 1
+	Query: "Syngnathus acus" ; Times: 1
+	Query: "Titanosaurus" ; Times: 1
+	Query: "scientificname:Rhinobatos rhinobatos" ; Times: 1
+	Query: "scientificname:Caranx hippos" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 2
+	Query: "ROM 76529" ; Times: 2
+	Query: "scientificname:Carcharias taurus" ; Times: 1
+	Query: "catalognumber:44169 institutioncode:ROM" ; Times: 2
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "Buteo polyosoma" ; Times: 1
+	Query: "mappable:1 scientificname:Podilymbus podiceps" ; Times: 1
+	Query: "scientificname:Carcharhinus limbatus" ; Times: 1
+	Query: "scientificname:Sphyrna mokarran" ; Times: 1
+	Query: "gopherus polyphemus" ; Times: 2
+	Query: "Emydoidea blandingi" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "scientificname:Brama brama" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "scientificname:Carcharhinus obscurus" ; Times: 1
+	Query: "institutioncode:ROM class:aves 2445" ; Times: 1
+	Query: "scientificname:Pristis pectinata" ; Times: 1
+	Query: "skull bone tibia femur" ; Times: 1
+	Query: "mappable:1 scientificname:Mycteria americana" ; Times: 1
+	Query: "scientificname:Squatina squatina" ; Times: 1
+	Query: "scientificname:Galeocerdo cuvier" ; Times: 1
+	Query: "Aepyornithiformes" ; Times: 1
+	Query: "67116" ; Times: 1
+	Query: "scientificname:Carcharodon carcharias" ; Times: 1
+	Query: "ROM 28638" ; Times: 1
+	Query: "76468" ; Times: 1
+	Query: "ROM 28612" ; Times: 1
+	Query: "Mosasaurus" ; Times: 1
+	Query: "mappable:1 scientificname:Anhinga anhinga" ; Times: 4
+	Query: "ROM 15084" ; Times: 2
+	Query: "80614" ; Times: 1
+	Query: "scientificname:Sphyraena sphyraena" ; Times: 2
+	Query: "specificepithet:interpres genus:Arenaria country:&#34;Peru&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Egretta thula" ; Times: 1
+	Query: "scientificname:Isurus oxyrinchus" ; Times: 1
+	Query: "scientificname:Syngnathus acus" ; Times: 2
+	Query: "scientificname:Pristis pristis" ; Times: 2
+	Query: "mappable:1 scientificname:Ardea alba" ; Times: 1
+	Query: "scientificname:Gadus morhua" ; Times: 1
+	Query: "49709" ; Times: 1
+	Query: "catalognumber:34159 institutioncode:ROM" ; Times: 2
+	Query: "11296" ; Times: 1
+	Query: "scientificname:Maurolicus muelleri" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 705 download events in this period)
+Total number of records downloaded: 7259
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 1
+	Query: "class:Reptilia country:Brazil" ; Times: 2
+	Query: "order:Squamata institutioncode:ROM" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Emydoidea blandingi" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+
+
+End of report.
